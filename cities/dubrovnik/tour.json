@@ -266,9 +266,9 @@
       "name": "Igreja de São Brás",
       "lat": 42.64066,
       "lng": 18.11026,
-      "duration_s": null,
+      "duration_s": 72,
       "script": "No ano 971, uma frota veneziana ancorou aqui perto fingindo reabastecer — mas planejava tomar a cidade.\nSegundo a lenda, São Brás apareceu em sonho ao padre Stojko, um velho de barba longa com mitra e báculo, e entregou o plano.\nO Senado armou a defesa, Veneza recuou, e Dubrovnik ganhou um padroeiro para sempre.\nA festa de São Brás acontece todo três de fevereiro, sem interrupção, desde 972 — mais de mil anos —, e é Patrimônio Imaterial da UNESCO.\nA igreja que você vê é barroca, de 1715, obra do veneziano Marino Gropelli.\nIronia fina: a cidade que São Brás salvou dos venezianos encomendou a igreja dele... a um veneziano.\nA anterior sobreviveu ao terremoto de 1667, mas queimou num incêndio em 1706.\nDo incêndio, uma única peça escapou: a estátua gótica de prata dourada do santo, do século quinze, hoje no altar-mor.\nOlhe a mão esquerda dela: São Brás segura a maquete de Dubrovnik como era ANTES do terremoto — o único retrato tridimensional da cidade perdida.\nE repare nos vitrais: são modernos, dos anos setenta, do pintor local Ivo Dulčić — raridade absoluta numa igreja barroca.",
-      "audio": null,
+      "audio": "audio/06-sao-bras.mp3",
       "photos": [
         {
           "file": "photos/06-sao-bras-1.jpg",
