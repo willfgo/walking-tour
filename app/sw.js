@@ -1,5 +1,5 @@
 /* Walking Tour — service worker: app shell + mídia + tiles OSM offline. */
-const VERSION = "wt-v10";
+const VERSION = "wt-v11";
 const SHELL = [
   "./",
   "index.html",

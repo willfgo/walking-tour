@@ -290,9 +290,9 @@
       "name": "Palácio do Reitor",
       "lat": 42.64032,
       "lng": 18.11073,
-      "duration_s": null,
+      "duration_s": 76,
       "script": "Aqui morava o homem mais poderoso — e mais vigiado — da República.\nO Reitor governava por apenas um mês, não podia ser reeleito antes de dois anos, e durante o mandato praticamente não saía do palácio.\nRagusa tinha pavor de concentração de poder, e desenhou o cargo para ser impossível de abusar.\nSobre a porta da sala do Grande Conselho, a inscrição resume: Obliti privatorum publica curate — esquecei os assuntos privados, cuidai dos públicos.\nO prédio é um catálogo de estilos por acidente: explosão de pólvora em 1435, reconstrução gótica por Onofrio della Cava — o mesmo da fonte —, outra explosão em 1463, capitéis renascentistas refeitos por Salvi di Michele, retoques barrocos após os terremotos.\nCada desastre deixou uma camada.\nNo átrio, procure o busto de Miho Pracat, um armador da ilha de Lopud que deixou sua fortuna à República.\nEm quatrocentos e cinquenta anos, ele foi o ÚNICO cidadão comum homenageado com um monumento — a nobreza não erguia estátuas nem para si mesma.\nO átrio tem acústica famosa e recebe concertos do festival de verão até hoje.\nLá dentro, o Museu de História Cultural recria os salões, e o interior fresco é um ótimo refúgio no calor do meio-dia.",
-      "audio": null,
+      "audio": "audio/07-palacio-reitor.mp3",
       "photos": [
         {
           "file": "photos/07-palacio-reitor-1.jpg",
