@@ -124,6 +124,14 @@ details.transcript summary { font-weight: 600; min-height: 44px; display: flex; 
 .btn-visited { background: var(--card); color: var(--fg); }
 .btn-visited.on { background: var(--visited); color: #fff; }
 
+.next-pill { position: fixed; left: 50%; transform: translateX(-50%);
+  bottom: calc(20px + env(safe-area-inset-bottom, 0px)); z-index: 1400;
+  display: flex; align-items: center; gap: 6px; min-height: 48px;
+  padding: 0 18px; border-radius: 999px; background: var(--brand); color: #fff;
+  font-weight: 600; font-size: 15px; text-decoration: none;
+  box-shadow: 0 3px 14px rgba(0,0,0,.35); max-width: 88vw;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
 #toast { position: fixed; bottom: calc(24px + env(safe-area-inset-bottom, 0px));
   left: 50%; transform: translateX(-50%); z-index: 2000;
   background: rgba(20,20,20,.92); color: #fff; padding: 10px 16px;

@@ -118,6 +118,23 @@
     }, { enableHighAccuracy: true, maximumAge: 5000 });
   }
 
+  // ---------- próximo ponto ----------
+  function nextPoi() {
+    const v = visited();
+    return tour.pois.slice().sort((a, b) => a.order - b.order)
+      .find((p) => !v.has(p.id)) || null;
+  }
+  function updateNextBtn() {
+    const btn = $("#next-poi");
+    const p = nextPoi();
+    if (!p) { btn.hidden = true; return; }
+    // destino único: turn-by-turn funciona em qualquer plataforma
+    btn.href = "https://www.google.com/maps/dir/?api=1&destination=" +
+      p.lat + "," + p.lng + "&travelmode=walking";
+    btn.textContent = "🧭 Navegar: " + p.order + ". " + p.name;
+    btn.hidden = false;
+  }
+
   // ---------- lista ----------
   function gmapsRouteUrl() {
     const pts = tour.pois.slice().sort((a, b) => a.order - b.order)
@@ -232,6 +249,7 @@
       b.classList.toggle("on", on);
       b.textContent = on ? "✓ Visitado" : "Marcar visitado";
       refreshMarker(poi);
+      updateNextBtn();
       if (!$("#list").hidden) renderList();
     });
     if (poi.audio) bindPlayer(poi);
@@ -310,6 +328,7 @@
       }
     } catch (e) { /* sem cities.json: segue com uma cidade */ }
     initMap();
+    updateNextBtn();
     $("#btn-view").addEventListener("click", () =>
       setView($("#list").hidden ? "list" : "map"));
     $("#btn-gps").addEventListener("click", toggleGps);
