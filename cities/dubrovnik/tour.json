@@ -194,9 +194,9 @@
       "name": "Mosteiro Franciscano e Farmácia Antiga",
       "lat": 42.64183,
       "lng": 18.10755,
-      "duration_s": null,
+      "duration_s": 72,
       "script": "Atrás desta passagem estreita funciona uma farmácia desde 1317.\nSete séculos vendendo remédio no mesmo endereço: é a farmácia mais antiga da Europa ainda em operação, e a terceira mais antiga do mundo.\nEla nasceu para servir os frades franciscanos, mas logo abriu ao público — e até hoje vende cremes feitos com as receitas seculares dos monges.\nO de rosas é o mais famoso.\nAntes de entrar, pare no portal da igreja.\nEssa Pietà gótica de 1498 — a Virgem com Cristo morto no colo — foi praticamente a única parte da igreja que sobreviveu ao terremoto de 1667.\nLá dentro, o tesouro é o claustro da primeira metade do século quatorze: cento e vinte colunas em pares, e nenhum capitel é igual ao outro.\nRostos humanos, animais, plantas, criaturas fantásticas — o escultor, Mihoje Brajkov, veio de Bar, no atual Montenegro, e morreu da Peste Negra em 1348.\nO claustro é a obra da vida dele.\nA biblioteca do mosteiro guarda mais de vinte mil volumes e mais de mil manuscritos antigos.\nProcure nos capitéis do claustro: dizem que um deles retrata o próprio escultor com dor de dente.",
-      "audio": null,
+      "audio": "audio/03-mosteiro-franciscano.mp3",
       "photos": [
         {
           "file": "photos/03-mosteiro-franciscano-1.jpg",
