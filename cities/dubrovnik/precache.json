@@ -1,0 +1,24 @@
+{
+ "assets": [
+  "cities/dubrovnik/tour.json"
+ ],
+ "tiles": [
+  "https://tile.openstreetmap.org/15/18031/12084.png",
+  "https://tile.openstreetmap.org/15/18031/12085.png",
+  "https://tile.openstreetmap.org/15/18032/12084.png",
+  "https://tile.openstreetmap.org/15/18032/12085.png",
+  "https://tile.openstreetmap.org/16/36063/24169.png",
+  "https://tile.openstreetmap.org/16/36063/24170.png",
+  "https://tile.openstreetmap.org/16/36064/24169.png",
+  "https://tile.openstreetmap.org/16/36064/24170.png",
+  "https://tile.openstreetmap.org/17/72127/48339.png",
+  "https://tile.openstreetmap.org/17/72127/48340.png",
+  "https://tile.openstreetmap.org/17/72127/48341.png",
+  "https://tile.openstreetmap.org/17/72128/48339.png",
+  "https://tile.openstreetmap.org/17/72128/48340.png",
+  "https://tile.openstreetmap.org/17/72128/48341.png",
+  "https://tile.openstreetmap.org/17/72129/48339.png",
+  "https://tile.openstreetmap.org/17/72129/48340.png",
+  "https://tile.openstreetmap.org/17/72129/48341.png"
+ ]
+}
