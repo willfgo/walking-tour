@@ -242,9 +242,9 @@
       "name": "Torre Lotrščak e Funicular",
       "lat": 45.81463,
       "lng": 15.97326,
-      "duration_s": null,
+      "duration_s": 72,
       "script": "Se for meio-dia, tape os ouvidos: o canhão desta torre dispara todos os dias às doze em ponto, desde o primeiro de janeiro de 1877.\nA função original era prática: dar o meio-dia exato para os sineiros de todas as igrejas acertarem os sinos.\nQuase cento e cinquenta anos depois, os zagrebenses ainda conferem o relógio pelo estrondo.\nA torre em si é do século treze, construída para vigiar a porta sul da muralha de Gradec.\nO nome vem do latim 'campana latrunculorum' — o sino dos ladrões — que tocava à noite avisando que as portas iam fechar.\nQuem ficasse do lado de fora, dormia do lado de fora.\nE a lenda favorita da cidade: um tiro de canhão disparado daqui teria atravessado o rio Sava e acertado em cheio o galo que seria servido no almoço do paxá turco.\nImpressionado com a pontaria, o paxá teria desistido de atacar Zagreb.\nAo lado, o funicular azul de 1890 é o transporte público mais antigo da cidade: sessenta e seis metros de trilho, sessenta e quatro segundos de viagem, inclinação de cinquenta e dois por cento.\nReabriu em maio de 2026, restaurado — a cabine é nova, o charme é o original.",
-      "audio": null,
+      "audio": "audio/07-lotrscak.mp3",
       "photos": [
         {
           "file": "photos/07-lotrscak-1.jpg",
