@@ -1,0 +1,38 @@
+{
+  "city": "Dubrovnik",
+  "title": "Cidade Velha — walking tour",
+  "intro": { "text": "Stub de teste — será substituído na Task A5.", "audio": null },
+  "route": [
+    [42.64143, 18.10652],
+    [42.64125, 18.10710],
+    [42.64108, 18.10774]
+  ],
+  "pois": [
+    {
+      "id": "pile-gate",
+      "order": 1,
+      "name": "Portão de Pile",
+      "lat": 42.64143,
+      "lng": 18.10652,
+      "duration_s": null,
+      "script": "Texto de teste do Portão de Pile.\nSegunda frase de teste.",
+      "audio": null,
+      "photos": [],
+      "practical": "Stub de info prática.",
+      "maps_url": "https://maps.apple.com/?daddr=42.64143,18.10652&dirflg=w"
+    },
+    {
+      "id": "onofrio",
+      "order": 2,
+      "name": "Fonte Grande de Onofrio",
+      "lat": 42.64108,
+      "lng": 18.10774,
+      "duration_s": null,
+      "script": "Texto de teste da fonte.\nSegunda frase.",
+      "audio": null,
+      "photos": [],
+      "practical": null,
+      "maps_url": "https://maps.apple.com/?daddr=42.64108,18.10774&dirflg=w"
+    }
+  ]
+}

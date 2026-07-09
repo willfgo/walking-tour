@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<meta name="theme-color" content="#0e7c66">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>Walking Tour</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="stylesheet" href="vendor/leaflet.css">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header id="topbar">
+  <h1 id="city-title">Walking Tour</h1>
+  <div id="topbar-actions">
+    <button id="btn-gps" title="Mostrar minha posição" aria-label="Mostrar minha posição">📍</button>
+    <button id="btn-view" title="Alternar mapa/lista" aria-label="Alternar mapa/lista">☰ Lista</button>
+  </div>
+</header>
+
+<main>
+  <div id="map"></div>
+  <div id="list" hidden></div>
+  <div id="app-error" class="error" hidden></div>
+</main>
+
+<section id="sheet" hidden aria-label="Ponto de interesse">
+  <div id="sheet-content"></div>
+</section>
+
+<div id="toast" hidden></div>
+
+<script src="vendor/leaflet.js" defer></script>
+<script src="app.js" defer></script>
+</body>
+</html>
