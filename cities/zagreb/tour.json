@@ -194,9 +194,9 @@
       "name": "Porta de Pedra (Kamenita vrata)",
       "lat": 45.81572,
       "lng": 15.97528,
-      "duration_s": null,
+      "duration_s": 71,
       "script": "Você vai atravessar a única porta que sobrou das muralhas medievais de Gradec — e ela é, ao mesmo tempo, passagem e santuário.\nNa noite de 30 de maio de 1731, um incêndio devastou a Cidade Alta.\nNos escombros da porta, encontraram intacta uma pintura da Virgem com o Menino — só a moldura de madeira tinha queimado.\nO 'milagre' transformou o arco num lugar de devoção: a pintura está ali até hoje, protegida por uma grade barroca de ferro forjado, com velas acesas e bancos onde sempre há alguém rezando.\nRepare nas placas de mármore cobrindo as paredes, quase todas com uma única palavra: 'Hvala' — obrigado.\nSão agradecimentos por graças alcançadas, alguns com mais de um século.\nEm 1991, no aniversário de 260 anos do incêndio, Nossa Senhora da Porta de Pedra foi proclamada padroeira de Zagreb — e o 31 de maio é o Dia da Cidade.\nDo lado de fora, a estátua de mulher no nicho engana muito turista: não é uma santa.\nÉ Dora Krupićeva, heroína do romance 'O Tesouro do Ourives', de August Šenoa — a filha do ourives que, na ficção, morava junto à porta.\nCostume local: atravesse em silêncio.",
-      "audio": null,
+      "audio": "audio/05-porta-pedra.mp3",
       "photos": [
         {
           "file": "photos/05-porta-pedra-1.jpg",
