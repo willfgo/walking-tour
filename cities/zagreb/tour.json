@@ -6,27 +6,90 @@
     "audio": null
   },
   "route": [
-    [45.81309, 15.97717],
-    [45.81360, 15.97800],
-    [45.81400, 15.97900],
-    [45.81446, 15.97986],
-    [45.81440, 15.97850],
-    [45.81429, 15.97724],
-    [45.81423, 15.97610],
-    [45.81480, 15.97570],
-    [45.81540, 15.97540],
-    [45.81572, 15.97528],
-    [45.81600, 15.97450],
-    [45.81639, 15.97363],
-    [45.81560, 15.97330],
-    [45.81463, 15.97326],
-    [45.81440, 15.97370],
-    [45.81427, 15.97413],
-    [45.81422, 15.97307],
-    [45.81300, 15.97250],
-    [45.81150, 15.97150],
-    [45.81000, 15.97050],
-    [45.80946, 15.97003]
+    [
+      45.81309,
+      15.97717
+    ],
+    [
+      45.8136,
+      15.978
+    ],
+    [
+      45.814,
+      15.979
+    ],
+    [
+      45.81446,
+      15.97986
+    ],
+    [
+      45.8144,
+      15.9785
+    ],
+    [
+      45.81429,
+      15.97724
+    ],
+    [
+      45.81423,
+      15.9761
+    ],
+    [
+      45.8148,
+      15.9757
+    ],
+    [
+      45.8154,
+      15.9754
+    ],
+    [
+      45.81572,
+      15.97528
+    ],
+    [
+      45.816,
+      15.9745
+    ],
+    [
+      45.81639,
+      15.97363
+    ],
+    [
+      45.8156,
+      15.9733
+    ],
+    [
+      45.81463,
+      15.97326
+    ],
+    [
+      45.8144,
+      15.9737
+    ],
+    [
+      45.81427,
+      15.97413
+    ],
+    [
+      45.81422,
+      15.97307
+    ],
+    [
+      45.813,
+      15.9725
+    ],
+    [
+      45.8115,
+      15.9715
+    ],
+    [
+      45.81,
+      15.9705
+    ],
+    [
+      45.80946,
+      15.97003
+    ]
   ],
   "pois": [
     {
@@ -38,7 +101,18 @@
       "duration_s": null,
       "script": "Você está no ponto de encontro de toda Zagreb — e numa praça que conta a história política da Croácia inteira.\nNo centro, a estátua equestre do Ban Josip Jelačić, o vice-rei que aboliu a servidão e enfrentou a revolução húngara de 1848.\nEla foi inaugurada em 1866 e, em 1947, o regime comunista a removeu — a praça virou Praça da República.\nA estátua só não foi destruída porque um curador corajoso, Antun Bauer, a desmontou e escondeu num porão de museu por quarenta e três anos.\nEm 1990, com a redemocratização, Jelačić voltou ao seu lugar — mas com o sabre agora apontando para o sul.\nNo canto leste da praça, procure a fonte Manduševac, a nascente que abasteceu a cidade por séculos.\nDiz a lenda que uma moça chamada Manda tirava água ali quando um cavaleiro pediu: 'Manda, querida, zagrabi' — 'pegue a água'.\nE desse 'zagrabi' teria nascido o nome Zagreb.\nÉ lenda, mas os moradores jogam moedas na fonte mesmo assim.\nRepare também no relógio antigo do lado oeste: 'debaixo do relógio' é o ponto de encontro clássico dos zagrebenses há gerações.",
       "audio": null,
-      "photos": [],
+      "photos": [
+        {
+          "file": "photos/01-jelacic-1.jpg",
+          "caption": "Praça Ban Jelačić com a estátua equestre e as fachadas históricas, com as torres da catedral ao fundo",
+          "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
+        },
+        {
+          "file": "photos/01-jelacic-2.jpg",
+          "caption": "Bonde azul da ZET parado na praça Ban Jelačić, com a estátua equestre à esquerda",
+          "credit": "Naturpuur / Wikimedia Commons (CC BY-SA 4.0)"
+        }
+      ],
       "practical": "Grátis, 24h. Ponto de partida perfeito; o relógio da praça é o ponto de encontro local. Jogue uma moeda na fonte Manduševac.",
       "maps_url": "https://maps.apple.com/?daddr=45.81309,15.97717&dirflg=w"
     },
@@ -51,7 +125,18 @@
       "duration_s": null,
       "script": "Estas duas agulhas de cento e oito metros são o prédio sacro mais alto da Croácia — e um sobrevivente em série.\nA catedral original, consagrada em 1217, foi destruída pelos mongóis em 1242.\nReconstruída, ganhou muralhas renascentistas contra os otomanos — ainda visíveis ao redor.\nEm 1880, um terremoto derrubou a nave; a reconstrução neogótica de Hermann Bollé deu a ela as torres gêmeas atuais.\nE em março de 2020, outro terremoto quebrou o topo da agulha sul; o da norte, inclinado, teve que ser removido com explosão controlada.\nA catedral passou seis anos fechada e reabriu em abril de 2026 — você está entre os primeiros visitantes desta nova fase.\nLá dentro, um esqueleto de aço invisível agora sustenta a estrutura, e quatro mil blocos de pedra foram removidos, escaneados e catalogados um a um.\nCuriosidade de artesão: a diferença de altura entre as duas torres é de apenas quatro centímetros.\nEm frente, a coluna dourada de Maria com quatro anjos é de 1865.\nE dentro, na parede norte, procure a inscrição em glagolítico — o alfabeto medieval eslavo que a Croácia guarda com orgulho.",
       "audio": null,
-      "photos": [],
+      "photos": [
+        {
+          "file": "photos/02-catedral-zagreb-1.jpg",
+          "caption": "Catedral de Zagreb ao nascer do sol, com a coluna de Maria e os anjos dourados em primeiro plano (uma torre sob andaimes)",
+          "credit": "Larisa Uhryn / Wikimedia Commons (CC BY-SA 4.0)"
+        },
+        {
+          "file": "photos/02-catedral-zagreb-2.jpg",
+          "caption": "Portal neogótico da catedral, com arquivoltas esculpidas, estátuas de santos e rosácea",
+          "credit": "Palauenc05 / Wikimedia Commons (CC BY-SA 4.0)"
+        }
+      ],
       "practical": "Grátis (doação sugerida). Sáb 10h–17h; DOMINGO só 13h–17h (manhã é de missas). Ombros/joelhos cobertos. Torres ainda com andaimes até ~2027.",
       "maps_url": "https://maps.apple.com/?daddr=45.81446,15.97986&dirflg=w"
     },
@@ -64,7 +149,18 @@
       "duration_s": null,
       "script": "Este mar de guarda-sóis vermelhos é a 'barriga de Zagreb' — o apelido oficial do mercado que alimenta a cidade desde 1930.\nQuando foi inaugurado, era um dos mercados cobertos mais modernos da Europa Central: peixaria e laticínios no piso coberto, frutas, verduras e flores na laje a céu aberto.\nOs guarda-sóis vermelhos com barrados coloridos não são aleatórios: são os šestinski kišobrani, inspirados no traje folclórico do vilarejo de Šestine, aqui do norte — e viraram símbolo da cidade, estampados até em selo dos correios.\nNa entrada sul, repare na estátua de bronze da mulher com a cesta na cabeça.\nÉ a Kumica Barica, homenagem às kumice — as 'comadres' camponesas que descem dos arredores há gerações para vender na banca.\nA escultora a modelou a partir de uma kumica real, com décadas de mercado nas costas.\nNo topo da escadaria, outro bronze: Petrica Kerempuh, o malandro-poeta do folclore croata, tocando para a feira.\nCompre frutas, queijo fresco e mel — e vá cedo: depois do meio-dia as bancas começam a fechar, e no domingo o mercado funciona só meio período.",
       "audio": null,
-      "photos": [],
+      "photos": [
+        {
+          "file": "photos/03-dolac-1.jpg",
+          "caption": "Mercado Dolac visto do alto: o mar de guarda-sóis vermelhos sobre as bancas de frutas e verduras",
+          "credit": "Rilegator / Wikimedia Commons (CC BY-SA 4.0)"
+        },
+        {
+          "file": "photos/03-dolac-2.jpg",
+          "caption": "Estátua de bronze da kumica, a vendedora com cesto na cabeça, na entrada do mercado Dolac",
+          "credit": "Palauenc05 / Wikimedia Commons (CC BY-SA 4.0)"
+        }
+      ],
       "practical": "Sáb ~7h–15h (melhor antes das 11h); DOM só até ~13h e mais vazio. Vá no sábado de manhã. Dinheiro vivo ajuda nas bancas.",
       "maps_url": "https://maps.apple.com/?daddr=45.81429,15.97724&dirflg=w"
     },
@@ -73,11 +169,22 @@
       "order": 4,
       "name": "Rua Tkalčićeva",
       "lat": 45.81423,
-      "lng": 15.97610,
+      "lng": 15.9761,
       "duration_s": null,
       "script": "Esta rua de cafés já foi um riacho — e uma linha de guerra.\nO Medveščak corria exatamente onde você pisa, separando as duas cidades rivais: Gradec na colina oeste, Kaptol na leste.\nOs moinhos d'água do riacho eram tão disputados que um tratado de paz de 1392 proibiu construir moinhos novos no trecho de fronteira.\nForam esses moinhos que geraram a primeira indústria de Zagreb: tecidos, sabão, papel, aguardente.\nO riacho foi aterrado por volta de 1900, e a rua que nasceu por cima se chamou, honestamente, Rua do Riacho.\nAgora, o capítulo que os guias antigos pulavam: na virada do século vinte, a prostituição era legalizada e licenciada em Zagreb — e era AQUI que ficavam os bordéis, praticamente casa sim, casa não.\nEles não podiam anunciar, mas podiam pendurar lanternas coloridas discretas na porta.\nO mais famoso e caro chamava-se 'Na Lanterna Verde'.\nA licença municipal exigia que o bordel fosse 'bem administrado e de bom serviço' — burocracia austro-húngara aplicada ao vício.\nHoje as casinhas coloridas abrigam os melhores cafés da cidade.\nNo início da rua, a estátua de Marija Jurić Zagorka homenageia a primeira jornalista profissional da Croácia.",
       "audio": null,
-      "photos": [],
+      "photos": [
+        {
+          "file": "photos/04-tkalciceva-1.jpg",
+          "caption": "Rua Tkalčićeva animada, com terraços de café, guarda-sóis e gente passeando entre as árvores",
+          "credit": "Jorge Franganillo / Wikimedia Commons (CC BY 2.0)"
+        },
+        {
+          "file": "photos/04-tkalciceva-2.jpg",
+          "caption": "Casinhas coloridas da Tkalčićeva, com restaurante amarelo de grill e mesas de madeira na calçada",
+          "credit": "Jorge Franganillo / Wikimedia Commons (CC BY 2.0)"
+        }
+      ],
       "practical": "Rua de pedestres, 24h; cafés desde ~8h. Ritual local: a 'špica', o café de sábado de manhã. Boa parada para almoço.",
       "maps_url": "https://maps.apple.com/?daddr=45.81423,15.97610&dirflg=w"
     },
@@ -90,7 +197,18 @@
       "duration_s": null,
       "script": "Você vai atravessar a única porta que sobrou das muralhas medievais de Gradec — e ela é, ao mesmo tempo, passagem e santuário.\nNa noite de 30 de maio de 1731, um incêndio devastou a Cidade Alta.\nNos escombros da porta, encontraram intacta uma pintura da Virgem com o Menino — só a moldura de madeira tinha queimado.\nO 'milagre' transformou o arco num lugar de devoção: a pintura está ali até hoje, protegida por uma grade barroca de ferro forjado, com velas acesas e bancos onde sempre há alguém rezando.\nRepare nas placas de mármore cobrindo as paredes, quase todas com uma única palavra: 'Hvala' — obrigado.\nSão agradecimentos por graças alcançadas, alguns com mais de um século.\nEm 1991, no aniversário de 260 anos do incêndio, Nossa Senhora da Porta de Pedra foi proclamada padroeira de Zagreb — e o 31 de maio é o Dia da Cidade.\nDo lado de fora, a estátua de mulher no nicho engana muito turista: não é uma santa.\nÉ Dora Krupićeva, heroína do romance 'O Tesouro do Ourives', de August Šenoa — a filha do ourives que, na ficção, morava junto à porta.\nCostume local: atravesse em silêncio.",
       "audio": null,
-      "photos": [],
+      "photos": [
+        {
+          "file": "photos/05-porta-pedra-1.jpg",
+          "caption": "Arco de entrada da Porta de Pedra (Kamenita vrata), com a inscrição \"Anno Dni 1760\" e casario ao redor",
+          "credit": "Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)"
+        },
+        {
+          "file": "photos/05-porta-pedra-2.jpg",
+          "caption": "Interior da Porta de Pedra: capela da Virgem atrás da grade de ferro forjado, cercada de placas votivas de agradecimento",
+          "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
+        }
+      ],
       "practical": "Grátis, aberto de dia. É santuário ativo: voz baixa, sem flash. Procure as placas 'Hvala' mais antigas.",
       "maps_url": "https://maps.apple.com/?daddr=45.81572,15.97528&dirflg=w"
     },
@@ -103,7 +221,18 @@
       "duration_s": null,
       "script": "Este telhado é o cartão-postal da Croácia — e é mais novo do que parece.\nA igreja existe desde o século treze, e o portal gótico sul, com quinze figuras esculpidas, é atribuído à oficina dos Parler de Praga — um dos portais mais valiosos do sudeste europeu.\nMas os azulejos coloridos do telhado são de 1880.\nÀ esquerda, o brasão do Reino Trino da Croácia, Eslavônia e Dalmácia; à direita, o castelo branco sobre fundo vermelho — o brasão de Zagreb.\nNa parede externa noroeste, procure o brasão de Zagreb mais antigo que se conhece, datado de 1499.\nA praça em volta é o coração político do país: de um lado, o Banski dvori, sede do governo; do outro, o Sabor, o parlamento.\nPor isso o acesso à praça é controlado desde 2020 — mas a igreja e o telhado se veem bem dos acessos laterais.\nE se for meio-dia de sábado ou domingo, fique por perto: a troca da guarda do Regimento dos Cravates desfila pela Cidade Alta.\nO nome não é acaso: a gravata nasceu do lenço que os soldados croatas usavam no pescoço — 'cravate' vem de 'croata'.\nA Croácia inventou a gravata, e a guarda desfila para lembrar o mundo disso.",
       "audio": null,
-      "photos": [],
+      "photos": [
+        {
+          "file": "photos/06-sao-marcos-1.jpg",
+          "caption": "Igreja de São Marcos vista da praça, com o telhado de azulejos coloridos exibindo os dois brasões",
+          "credit": "Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)"
+        },
+        {
+          "file": "photos/06-sao-marcos-2.jpg",
+          "caption": "Detalhe do telhado de azulejos: brasão do Reino Trino à esquerda e brasão de Zagreb à direita",
+          "credit": "Paula Borkovic / Wikimedia Commons (CC BY-SA 4.0)"
+        }
+      ],
       "practical": "Exterior grátis (interior restrito a missas). Troca da guarda: sáb/dom ~12h na alta temporada — mesmo horário do canhão da Lotrščak a 300 m; veja um em cada dia.",
       "maps_url": "https://maps.apple.com/?daddr=45.81639,15.97363&dirflg=w"
     },
@@ -116,7 +245,18 @@
       "duration_s": null,
       "script": "Se for meio-dia, tape os ouvidos: o canhão desta torre dispara todos os dias às doze em ponto, desde o primeiro de janeiro de 1877.\nA função original era prática: dar o meio-dia exato para os sineiros de todas as igrejas acertarem os sinos.\nQuase cento e cinquenta anos depois, os zagrebenses ainda conferem o relógio pelo estrondo.\nA torre em si é do século treze, construída para vigiar a porta sul da muralha de Gradec.\nO nome vem do latim 'campana latrunculorum' — o sino dos ladrões — que tocava à noite avisando que as portas iam fechar.\nQuem ficasse do lado de fora, dormia do lado de fora.\nE a lenda favorita da cidade: um tiro de canhão disparado daqui teria atravessado o rio Sava e acertado em cheio o galo que seria servido no almoço do paxá turco.\nImpressionado com a pontaria, o paxá teria desistido de atacar Zagreb.\nAo lado, o funicular azul de 1890 é o transporte público mais antigo da cidade: sessenta e seis metros de trilho, sessenta e quatro segundos de viagem, inclinação de cinquenta e dois por cento.\nReabriu em maio de 2026, restaurado — a cabine é nova, o charme é o original.",
       "audio": null,
-      "photos": [],
+      "photos": [
+        {
+          "file": "photos/07-lotrscak-1.jpg",
+          "caption": "Funicular de Zagreb subindo os trilhos rumo à Cidade Alta, com a torre Lotrščak no alto à direita",
+          "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
+        },
+        {
+          "file": "photos/07-lotrscak-2.jpg",
+          "caption": "Torre medieval Lotrščak, branca com mirante no topo, vista de baixo sob céu azul",
+          "credit": "Avisadehh / Wikimedia Commons (CC0)"
+        }
+      ],
       "practical": "Torre: €3, sáb/dom 11h–20h (mirante 360°). Funicular: €0,66 por trecho, a cada 10 min. Canhão: todo dia às 12h em ponto.",
       "maps_url": "https://maps.apple.com/?daddr=45.81463,15.97326&dirflg=w"
     },
@@ -129,7 +269,18 @@
       "duration_s": null,
       "script": "Este passeio arborizado segue exatamente a linha da antiga muralha sul de Gradec — onde os vigias faziam a ronda, hoje se passeia sob castanheiras.\nA alameda foi urbanizada no século dezenove com doações voluntárias dos próprios cidadãos, e leva o nome do bispo Strossmayer, o grande mecenas que fundou a Academia de Ciências e Artes.\nOs locais, porém, a chamam de 'Strossmartre' — o trocadilho com Montmartre é assumido.\nNo verão, o apelido vira programa: o festival 'Verão no Štros' toma o passeio com música ao vivo, feirinhas e bares ao ar livre até tarde — se puder, volte à noite.\nNa balaustrada, sentado num banco de bronze desde 1972, está o poeta Antun Gustav Matoš, pernas cruzadas, contemplando a cidade.\nSentar ao lado dele é a foto clássica de Zagreb.\nDaqui você tem a melhor vista gratuita da Cidade Baixa: os telhados, as praças do urbanismo oitocentista e as torres da catedral com seus andaimes de reconstrução.\nUm detalhe raro: Zagreb ainda mantém cerca de duzentos lampiões a gás na Cidade Alta, acesos à mão, um por um, todo entardecer.\nSe estiver aqui no fim do dia, talvez você veja o acendedor passar — uma profissão do século dezenove viva no vinte e um.",
       "audio": null,
-      "photos": [],
+      "photos": [
+        {
+          "file": "photos/08-setaliste-1.jpg",
+          "caption": "Passeio Strossmayer sob as copas dos castanheiros, com mesas, quiosques e lustres pendurados nas árvores",
+          "credit": "Jorge Láscar from Australia / Wikimedia Commons (CC BY 2.0)"
+        },
+        {
+          "file": "photos/08-setaliste-2.jpg",
+          "caption": "Vista do Passeio Strossmayer sobre os telhados da cidade, com a torre de Santa Maria e a catedral ao fundo",
+          "credit": "Miroslav Vajdić / Wikimedia Commons (CC BY 3.0)"
+        }
+      ],
       "practical": "Grátis, 24h. Em julho rola o festival Ljeto na Štrosu (música e bares à noite) — vale voltar no sábado à noite.",
       "maps_url": "https://maps.apple.com/?daddr=45.81427,15.97413&dirflg=w"
     },
@@ -142,7 +293,18 @@
       "duration_s": null,
       "script": "Para fechar, desça à Cidade Baixa até este palácio amarelo neobarroco — obra da dupla vienense Fellner e Helmer, que construiu quase cinquenta teatros pela Europa Central.\nAqui eles se superaram na velocidade: pedra fundamental em maio de 1894, mais de duzentos operários, teatro pronto em dezesseis meses.\nNa inauguração, em outubro de 1895, o próprio imperador Francisco José compareceu — e declarou o teatro aberto batendo na balaustrada com um martelo de prata feito especialmente para a ocasião.\nO teatro é a peça central da 'Ferradura Verde', o anel de praças-jardim que o urbanista Lenuci desenhou para a Zagreb do século dezenove — a razão de a Cidade Baixa ser tão elegante e respirável.\nMas a obra-prima da praça está do lado de fora, e é gratuita: o 'Poço da Vida', de Ivan Meštrović, o maior escultor croata, admirado pelo próprio Rodin.\nEsculpido em 1905, é um poço de bronze rodeado de figuras humanas entrelaçadas — juventude, velhice, amor, solidão — todas debruçadas sobre a água.\nCircule a obra inteira, sem pressa.\nÉ o encerramento perfeito: uma cidade que brigou consigo mesma por séculos, unificada em torno de um poço onde todas as idades se encontram.\nDobar dan, e até o próximo tour!",
       "audio": null,
-      "photos": [],
+      "photos": [
+        {
+          "file": "photos/09-teatro-nacional-1.jpg",
+          "caption": "Teatro Nacional Croata (HNK), edifício neobarroco amarelo com cúpula verde, visto dos jardins floridos",
+          "credit": "Koreanovsky / Wikimedia Commons (CC BY-SA 4.0)"
+        },
+        {
+          "file": "photos/09-teatro-nacional-2.jpg",
+          "caption": "Teatro Nacional iluminado à noite, com a esfera dourada de Kožarić brilhando em primeiro plano",
+          "credit": "Paula Borkovic / Wikimedia Commons (CC BY-SA 4.0)"
+        }
+      ],
       "practical": "Exterior grátis (fim de semana sem tours internos; temporada teatral pausada em julho). Melhor luz de manhã. Não perca o Poço da Vida de Meštrović em frente.",
       "maps_url": "https://maps.apple.com/?daddr=45.80946,15.97003&dirflg=w"
     }
