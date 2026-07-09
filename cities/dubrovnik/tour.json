@@ -314,9 +314,9 @@
       "name": "Catedral da Assunção",
       "lat": 42.63991,
       "lng": 18.11042,
-      "duration_s": null,
+      "duration_s": 74,
       "script": "Você está diante de três catedrais empilhadas.\nQuando o terremoto de 1979 exigiu obras, os arqueólogos encontraram sob o piso uma basílica bizantina com fragmentos do século nove — a cidade é muito mais antiga do que parece.\nSobre ela foi erguida uma catedral românica, e diz a tradição que Ricardo Coração de Leão, náufrago perto daqui em 1192 ao voltar da Cruzada, teria pago parte da obra em gratidão.\nO terremoto de 1667 derrubou tudo, e a catedral barroca atual foi projetada em Roma e concluída em 1713 — quarenta e dois anos de obra, cem mil ducados.\nLá dentro, no altar-mor, um políptico de Ticiano, pintado por volta de 1552: a Assunção da Virgem.\nUm Ticiano original nesta cidadezinha — Ragusa podia pagar.\nAo lado, o Tesouro guarda mais de cento e oitenta relicários, incluindo o crânio, um braço e uma perna de São Brás.\nO relicário do crânio tem a forma de uma coroa bizantina coberta de esmaltes — e sai em procissão pela cidade todo três de fevereiro.\nPense na sobreposição: sob seus pés, Bizâncio; à sua frente, Veneza na tela de Ticiano; na sala ao lado, o padroeiro numa coroa.\nTrês impérios num prédio só.",
-      "audio": null,
+      "audio": "audio/08-catedral.mp3",
       "photos": [
         {
           "file": "photos/08-catedral-1.jpg",
