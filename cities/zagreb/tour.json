@@ -290,9 +290,9 @@
       "name": "Teatro Nacional Croata (HNK)",
       "lat": 45.80946,
       "lng": 15.97003,
-      "duration_s": null,
+      "duration_s": 78,
       "script": "Para fechar, desça à Cidade Baixa até este palácio amarelo neobarroco — obra da dupla vienense Fellner e Helmer, que construiu quase cinquenta teatros pela Europa Central.\nAqui eles se superaram na velocidade: pedra fundamental em maio de 1894, mais de duzentos operários, teatro pronto em dezesseis meses.\nNa inauguração, em outubro de 1895, o próprio imperador Francisco José compareceu — e declarou o teatro aberto batendo na balaustrada com um martelo de prata feito especialmente para a ocasião.\nO teatro é a peça central da 'Ferradura Verde', o anel de praças-jardim que o urbanista Lenuci desenhou para a Zagreb do século dezenove — a razão de a Cidade Baixa ser tão elegante e respirável.\nMas a obra-prima da praça está do lado de fora, e é gratuita: o 'Poço da Vida', de Ivan Meštrović, o maior escultor croata, admirado pelo próprio Rodin.\nEsculpido em 1905, é um poço de bronze rodeado de figuras humanas entrelaçadas — juventude, velhice, amor, solidão — todas debruçadas sobre a água.\nCircule a obra inteira, sem pressa.\nÉ o encerramento perfeito: uma cidade que brigou consigo mesma por séculos, unificada em torno de um poço onde todas as idades se encontram.\nDobar dan, e até o próximo tour!",
-      "audio": null,
+      "audio": "audio/09-teatro-nacional.mp3",
       "photos": [
         {
           "file": "photos/09-teatro-nacional-1.jpg",
