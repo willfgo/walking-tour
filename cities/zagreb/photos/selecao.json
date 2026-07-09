@@ -1,0 +1,110 @@
+[
+ {
+  "poi": "jelacic",
+  "file": "photos/01-jelacic-1.jpg",
+  "caption": "Praça Ban Jelačić com a estátua equestre e as fachadas históricas, com as torres da catedral ao fundo",
+  "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
+ },
+ {
+  "poi": "jelacic",
+  "file": "photos/01-jelacic-2.jpg",
+  "caption": "Bonde azul da ZET parado na praça Ban Jelačić, com a estátua equestre à esquerda",
+  "credit": "Naturpuur / Wikimedia Commons (CC BY-SA 4.0)"
+ },
+ {
+  "poi": "catedral-zagreb",
+  "file": "photos/02-catedral-zagreb-1.jpg",
+  "caption": "Catedral de Zagreb ao nascer do sol, com a coluna de Maria e os anjos dourados em primeiro plano (uma torre sob andaimes)",
+  "credit": "Larisa Uhryn / Wikimedia Commons (CC BY-SA 4.0)"
+ },
+ {
+  "poi": "catedral-zagreb",
+  "file": "photos/02-catedral-zagreb-2.jpg",
+  "caption": "Portal neogótico da catedral, com arquivoltas esculpidas, estátuas de santos e rosácea",
+  "credit": "Palauenc05 / Wikimedia Commons (CC BY-SA 4.0)"
+ },
+ {
+  "poi": "dolac",
+  "file": "photos/03-dolac-1.jpg",
+  "caption": "Mercado Dolac visto do alto: o mar de guarda-sóis vermelhos sobre as bancas de frutas e verduras",
+  "credit": "Rilegator / Wikimedia Commons (CC BY-SA 4.0)"
+ },
+ {
+  "poi": "dolac",
+  "file": "photos/03-dolac-2.jpg",
+  "caption": "Estátua de bronze da kumica, a vendedora com cesto na cabeça, na entrada do mercado Dolac",
+  "credit": "Palauenc05 / Wikimedia Commons (CC BY-SA 4.0)"
+ },
+ {
+  "poi": "tkalciceva",
+  "file": "photos/04-tkalciceva-1.jpg",
+  "caption": "Rua Tkalčićeva animada, com terraços de café, guarda-sóis e gente passeando entre as árvores",
+  "credit": "Jorge Franganillo / Wikimedia Commons (CC BY 2.0)"
+ },
+ {
+  "poi": "tkalciceva",
+  "file": "photos/04-tkalciceva-2.jpg",
+  "caption": "Casinhas coloridas da Tkalčićeva, com restaurante amarelo de grill e mesas de madeira na calçada",
+  "credit": "Jorge Franganillo / Wikimedia Commons (CC BY 2.0)"
+ },
+ {
+  "poi": "porta-pedra",
+  "file": "photos/05-porta-pedra-1.jpg",
+  "caption": "Arco de entrada da Porta de Pedra (Kamenita vrata), com a inscrição \"Anno Dni 1760\" e casario ao redor",
+  "credit": "Adam Harangozó / Wikimedia Commons (CC BY-SA 4.0)"
+ },
+ {
+  "poi": "porta-pedra",
+  "file": "photos/05-porta-pedra-2.jpg",
+  "caption": "Interior da Porta de Pedra: capela da Virgem atrás da grade de ferro forjado, cercada de placas votivas de agradecimento",
+  "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
+ },
+ {
+  "poi": "sao-marcos",
+  "file": "photos/06-sao-marcos-1.jpg",
+  "caption": "Igreja de São Marcos vista da praça, com o telhado de azulejos coloridos exibindo os dois brasões",
+  "credit": "Pudelek (Marcin Szala) / Wikimedia Commons (CC BY-SA 3.0)"
+ },
+ {
+  "poi": "sao-marcos",
+  "file": "photos/06-sao-marcos-2.jpg",
+  "caption": "Detalhe do telhado de azulejos: brasão do Reino Trino à esquerda e brasão de Zagreb à direita",
+  "credit": "Paula Borkovic / Wikimedia Commons (CC BY-SA 4.0)"
+ },
+ {
+  "poi": "lotrscak",
+  "file": "photos/07-lotrscak-1.jpg",
+  "caption": "Funicular de Zagreb subindo os trilhos rumo à Cidade Alta, com a torre Lotrščak no alto à direita",
+  "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
+ },
+ {
+  "poi": "lotrscak",
+  "file": "photos/07-lotrscak-2.jpg",
+  "caption": "Torre medieval Lotrščak, branca com mirante no topo, vista de baixo sob céu azul",
+  "credit": "Avisadehh / Wikimedia Commons (CC0)"
+ },
+ {
+  "poi": "setaliste",
+  "file": "photos/08-setaliste-1.jpg",
+  "caption": "Passeio Strossmayer sob as copas dos castanheiros, com mesas, quiosques e lustres pendurados nas árvores",
+  "credit": "Jorge Láscar from Australia / Wikimedia Commons (CC BY 2.0)"
+ },
+ {
+  "poi": "setaliste",
+  "file": "photos/08-setaliste-2.jpg",
+  "caption": "Vista do Passeio Strossmayer sobre os telhados da cidade, com a torre de Santa Maria e a catedral ao fundo",
+  "credit": "Miroslav Vajdić / Wikimedia Commons (CC BY 3.0)"
+ },
+ {
+  "poi": "teatro-nacional",
+  "file": "photos/09-teatro-nacional-1.jpg",
+  "caption": "Teatro Nacional Croata (HNK), edifício neobarroco amarelo com cúpula verde, visto dos jardins floridos",
+  "credit": "Koreanovsky / Wikimedia Commons (CC BY-SA 4.0)"
+ },
+ {
+  "poi": "teatro-nacional",
+  "file": "photos/09-teatro-nacional-2.jpg",
+  "caption": "Teatro Nacional iluminado à noite, com a esfera dourada de Kožarić brilhando em primeiro plano",
+  "credit": "Paula Borkovic / Wikimedia Commons (CC BY-SA 4.0)"
+ }
+]

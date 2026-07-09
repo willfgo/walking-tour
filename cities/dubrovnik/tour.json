@@ -362,9 +362,9 @@
       "name": "Buža — o bar no buraco da muralha",
       "lat": 42.63899,
       "lng": 18.10884,
-      "duration_s": null,
+      "duration_s": 73,
       "script": "Buža, no dialeto local, significa buraco — e é literal: você atravessa um buraco aberto na muralha sul e sai num bar pendurado nos penhascos, de frente para o mar aberto e a ilha de Lokrum.\nAntes de atravessar, toque na pedra.\nEssas muralhas têm um quilômetro e novecentos e quarenta metros de circuito, até vinte e cinco metros de altura — e nunca, em quatrocentos e cinquenta anos de República, foram rompidas por um exército.\nRepare num detalhe de projeto: do lado da terra, a muralha tem de quatro a seis metros de espessura; do lado do mar, onde você está, só um e meio a três.\nA República sabia exatamente de onde vinha o perigo.\nO grande reforço veio depois de 1453, quando Constantinopla caiu e o pânico otomano varreu a Europa.\nA torre Minčeta, o ponto mais alto do circuito, ficou pronta em 1464, com projeto de mestres de Florença e da Dalmácia.\nEm 1991, as muralhas foram testadas de novo: quase setenta por cento dos edifícios da cidade velha foram atingidos no cerco — e a cidade, restaurada pedra por pedra, segue de pé.\nAgora sim: atravesse o buraco, peça algo gelado e fique para o mar.\nVocê mereceu.",
-      "audio": null,
+      "audio": "audio/10-buza.mp3",
       "photos": [
         {
           "file": "photos/10-buza-1.jpg",
