@@ -3,7 +3,7 @@
   "title": "Cidade Velha — walking tour",
   "intro": {
     "text": "Bem-vindo a Dubrovnik, a antiga República de Ragusa.\nDurante quatrocentos e cinquenta anos, esta pequena cidade murada foi um estado independente que sobreviveu entre dois gigantes: Veneza e o Império Otomano.\nNão com exércitos, mas com diplomacia e comércio.\nFoi aqui que nasceu a primeira quarentena do mundo, em 1377.\nE o lema da cidade resume tudo: Libertas — a liberdade não se vende nem por todo o ouro do mundo.\nO tour começa no Portão de Pile e termina no Forte Lovrijenac.\nBoa caminhada!",
-    "audio": null
+    "audio": "audio/00-intro.mp3"
   },
   "route": [
     [
