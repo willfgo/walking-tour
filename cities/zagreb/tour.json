@@ -3,7 +3,7 @@
   "title": "Centro histórico — walking tour",
   "intro": {
     "text": "Bem-vindo a Zagreb!\nDurante séculos, isto aqui não era uma cidade — eram duas, em duas colinas rivais: Kaptol, dos bispos, e Gradec, dos mercadores.\nElas brigaram por moinhos, rendas e orgulho por quinhentos anos, até se unirem oficialmente em 1850.\nEste tour costura as duas colinas e a praça que as une.\nDica de ouro: ao meio-dia, um canhão dispara da torre Lotrščak — desde 1877.\nNão se assuste: é só Zagreb acertando o relógio.\nBoa caminhada!",
-    "audio": null
+    "audio": "audio/00-intro.mp3"
   },
   "route": [
     [
