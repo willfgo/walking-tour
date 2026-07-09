@@ -146,9 +146,9 @@
       "name": "Mercado Dolac",
       "lat": 45.81429,
       "lng": 15.97724,
-      "duration_s": null,
+      "duration_s": 68,
       "script": "Este mar de guarda-sóis vermelhos é a 'barriga de Zagreb' — o apelido oficial do mercado que alimenta a cidade desde 1930.\nQuando foi inaugurado, era um dos mercados cobertos mais modernos da Europa Central: peixaria e laticínios no piso coberto, frutas, verduras e flores na laje a céu aberto.\nOs guarda-sóis vermelhos com barrados coloridos não são aleatórios: são os šestinski kišobrani, inspirados no traje folclórico do vilarejo de Šestine, aqui do norte — e viraram símbolo da cidade, estampados até em selo dos correios.\nNa entrada sul, repare na estátua de bronze da mulher com a cesta na cabeça.\nÉ a Kumica Barica, homenagem às kumice — as 'comadres' camponesas que descem dos arredores há gerações para vender na banca.\nA escultora a modelou a partir de uma kumica real, com décadas de mercado nas costas.\nNo topo da escadaria, outro bronze: Petrica Kerempuh, o malandro-poeta do folclore croata, tocando para a feira.\nCompre frutas, queijo fresco e mel — e vá cedo: depois do meio-dia as bancas começam a fechar, e no domingo o mercado funciona só meio período.",
-      "audio": null,
+      "audio": "audio/03-dolac.mp3",
       "photos": [
         {
           "file": "photos/03-dolac-1.jpg",
