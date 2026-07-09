@@ -122,9 +122,9 @@
       "name": "Catedral de Zagreb",
       "lat": 45.81446,
       "lng": 15.97986,
-      "duration_s": null,
+      "duration_s": 74,
       "script": "Estas duas agulhas de cento e oito metros são o prédio sacro mais alto da Croácia — e um sobrevivente em série.\nA catedral original, consagrada em 1217, foi destruída pelos mongóis em 1242.\nReconstruída, ganhou muralhas renascentistas contra os otomanos — ainda visíveis ao redor.\nEm 1880, um terremoto derrubou a nave; a reconstrução neogótica de Hermann Bollé deu a ela as torres gêmeas atuais.\nE em março de 2020, outro terremoto quebrou o topo da agulha sul; o da norte, inclinado, teve que ser removido com explosão controlada.\nA catedral passou seis anos fechada e reabriu em abril de 2026 — você está entre os primeiros visitantes desta nova fase.\nLá dentro, um esqueleto de aço invisível agora sustenta a estrutura, e quatro mil blocos de pedra foram removidos, escaneados e catalogados um a um.\nCuriosidade de artesão: a diferença de altura entre as duas torres é de apenas quatro centímetros.\nEm frente, a coluna dourada de Maria com quatro anjos é de 1865.\nE dentro, na parede norte, procure a inscrição em glagolítico — o alfabeto medieval eslavo que a Croácia guarda com orgulho.",
-      "audio": null,
+      "audio": "audio/02-catedral-zagreb.mp3",
       "photos": [
         {
           "file": "photos/02-catedral-zagreb-1.jpg",
