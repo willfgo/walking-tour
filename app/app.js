@@ -119,10 +119,25 @@
   }
 
   // ---------- lista ----------
+  function gmapsRouteUrl() {
+    const pts = tour.pois.slice().sort((a, b) => a.order - b.order)
+      .map((p) => p.lat + "," + p.lng);
+    const way = pts.slice(1, -1).slice(0, 9).join("|"); // Maps aceita até 9 paradas
+    return "https://www.google.com/maps/dir/?api=1" +
+      "&origin=" + pts[0] + "&destination=" + pts[pts.length - 1] +
+      "&travelmode=walking" + (way ? "&waypoints=" + encodeURIComponent(way) : "");
+  }
   function renderList() {
     const v = visited();
     const box = $("#list");
     box.innerHTML = "";
+    const exp = document.createElement("a");
+    exp.className = "btn-export";
+    exp.href = gmapsRouteUrl();
+    exp.target = "_blank";
+    exp.rel = "noopener";
+    exp.textContent = "🗺️ Abrir roteiro completo no Google Maps";
+    box.appendChild(exp);
     tour.pois.forEach((poi, i) => {
       const next = tour.pois[i + 1];
       let nextTxt = "Fim do tour 🎉";

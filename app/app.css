@@ -63,6 +63,11 @@ main { position: relative; height: calc(100dvh - 60px - env(safe-area-inset-top,
 .list-item .li-next { color: var(--muted); font-size: 13px; margin-top: 2px; }
 .list-item .li-check { font-size: 20px; color: var(--visited); }
 
+.btn-export { display: flex; align-items: center; justify-content: center;
+  min-height: 48px; margin-bottom: 10px; border-radius: 14px;
+  background: var(--brand); color: #fff; font-weight: 600; font-size: 15px;
+  text-decoration: none; }
+
 /* ---- bottom sheet ---- */
 #sheet { position: fixed; left: 0; right: 0; bottom: 0; z-index: 1500;
   max-height: var(--sheet-h); background: var(--bg);
