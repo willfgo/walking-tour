@@ -242,9 +242,9 @@
       "name": "Palácio Sponza",
       "lat": 42.64124,
       "lng": 18.11056,
-      "duration_s": null,
+      "duration_s": 75,
       "script": "Este é um dos raríssimos palácios que sobreviveram inteiros ao terremoto de 1667 — olhe bem, porque é assim que Dubrovnik inteira era antes da catástrofe.\nConstruído entre 1516 e 1522, projeto de Paskoje Miličević — o mesmo engenheiro da ponte do Portão de Pile, lembra?\nA loggia é renascentista, as janelas do primeiro andar são góticas: a elegância de Ragusa era misturar os dois sem cerimônia.\nO prédio já foi alfândega, casa da moeda, arsenal, banco e escola.\nNo átrio, procure a inscrição em latim da balança pública da alfândega.\nEla diz: nossos pesos não permitem enganar nem ser enganado; quando peso as mercadorias, o próprio Deus pesa comigo.\nHonestidade comercial elevada a teologia de Estado — esse era o espírito da República.\nHoje o Sponza guarda o Arquivo do Estado: documentos desde o ano 1022, um dos arquivos medievais mais ricos do mundo.\nNo térreo, com entrada gratuita, fica a Sala Memorial dos Defensores de Dubrovnik, com os retratos dos que morreram no cerco de 1991 e 92.\nÉ pequena, silenciosa e tocante — a ponte entre a República antiga e a guerra que ainda está na memória viva da cidade.",
-      "audio": null,
+      "audio": "audio/05-sponza.mp3",
       "photos": [
         {
           "file": "photos/05-sponza-1.jpg",
