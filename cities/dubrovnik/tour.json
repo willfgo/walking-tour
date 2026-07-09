@@ -146,9 +146,9 @@
       "name": "Portão de Pile",
       "lat": 42.64173,
       "lng": 18.10684,
-      "duration_s": null,
+      "duration_s": 70,
       "script": "Você está na entrada principal de Dubrovnik há mais de quinhentos anos.\nO portão externo, renascentista, é de 1537; o interno, gótico, é ainda mais antigo, de 1460.\nA ponte de pedra sob seus pés foi projetada em 1471 por Paskoje Miličević, o engenheiro-chefe da República — guarde esse nome, ele vai reaparecer no fim do Stradun.\nNo tempo da República de Ragusa, a ponte levadiça de madeira era içada toda noite, em cerimônia solene, e as chaves da cidade eram entregues ao Reitor.\nA cidade literalmente se fechava para dormir.\nRepare nos contrapesos do mecanismo, ainda visíveis dos dois lados do portão.\nSobre o arco externo, na nicho, está São Brás, o padroeiro que você vai encontrar em toda muralha e portão da cidade — sempre segurando uma maquete de Dubrovnik na mão.\nNo portão interno há outra estátua dele, esculpida por Ivan Meštrović, o maior escultor croata do século vinte.\nUm santo medieval esculpido por um modernista.\nAntes de atravessar, olhe para trás: o fosso virou jardim, e a vista da ponte é uma das melhores fotos da entrada da cidade.",
-      "audio": null,
+      "audio": "audio/01-pile-gate.mp3",
       "photos": [
         {
           "file": "photos/01-pile-gate-1.jpg",
