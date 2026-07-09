@@ -338,9 +338,9 @@
       "name": "Praça Gundulić",
       "lat": 42.64021,
       "lng": 18.10993,
-      "duration_s": null,
+      "duration_s": 73,
       "script": "Se você chegou de manhã, esta praça está cheia de bancas: é o mercado ao ar livre de Dubrovnik, no mesmo lugar há séculos.\nFrutas, lavanda, óleos, mel — e a compra local clássica: casca de laranja cristalizada, as arancini, e rakija caseira.\nNo centro, de bronze, está Ivan Gundulić, o maior poeta barroco de Ragusa, morto em 1638.\nNo seu épico Osman, ele descreveu Dubrovnik como a cidade que vive 'entre o leão e o dragão' — o leão de São Marcos, Veneza, e o dragão otomano.\nNenhuma frase resume melhor a geopolítica da República: pequena demais para lutar, esperta demais para cair.\nDesde 1458, Ragusa pagava tributo anual ao sultão e, em troca, navegava sob proteção otomana — comprava a paz e competia com Veneza no comércio.\nO monumento é de 1893, e sua inauguração virou uma enorme manifestação política croata: o poeta como bandeira.\nRepare nos quatro relevos de bronze do pedestal, com cenas do Osman.\nNo canto sul da praça começa a Escadaria dos Jesuítas, de 1738, inspirada na Praça de Espanha de Roma.\nOs fãs de Game of Thrones a conhecem de outro jeito: foi ali que Cersei desceu na Caminhada da Vergonha.",
-      "audio": null,
+      "audio": "audio/09-gundulic.mp3",
       "photos": [
         {
           "file": "photos/09-gundulic-1.jpg",
