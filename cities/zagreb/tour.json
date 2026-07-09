@@ -98,9 +98,9 @@
       "name": "Praça Ban Jelačić",
       "lat": 45.81309,
       "lng": 15.97717,
-      "duration_s": null,
+      "duration_s": 69,
       "script": "Você está no ponto de encontro de toda Zagreb — e numa praça que conta a história política da Croácia inteira.\nNo centro, a estátua equestre do Ban Josip Jelačić, o vice-rei que aboliu a servidão e enfrentou a revolução húngara de 1848.\nEla foi inaugurada em 1866 e, em 1947, o regime comunista a removeu — a praça virou Praça da República.\nA estátua só não foi destruída porque um curador corajoso, Antun Bauer, a desmontou e escondeu num porão de museu por quarenta e três anos.\nEm 1990, com a redemocratização, Jelačić voltou ao seu lugar — mas com o sabre agora apontando para o sul.\nNo canto leste da praça, procure a fonte Manduševac, a nascente que abasteceu a cidade por séculos.\nDiz a lenda que uma moça chamada Manda tirava água ali quando um cavaleiro pediu: 'Manda, querida, zagrabi' — 'pegue a água'.\nE desse 'zagrabi' teria nascido o nome Zagreb.\nÉ lenda, mas os moradores jogam moedas na fonte mesmo assim.\nRepare também no relógio antigo do lado oeste: 'debaixo do relógio' é o ponto de encontro clássico dos zagrebenses há gerações.",
-      "audio": null,
+      "audio": "audio/01-jelacic.mp3",
       "photos": [
         {
           "file": "photos/01-jelacic-1.jpg",
