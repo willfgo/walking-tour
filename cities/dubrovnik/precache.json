@@ -1,6 +1,27 @@
 {
  "assets": [
-  "cities/dubrovnik/tour.json"
+  "cities/dubrovnik/tour.json",
+  "cities/dubrovnik/photos/01-pile-gate-1.jpg",
+  "cities/dubrovnik/photos/01-pile-gate-2.jpg",
+  "cities/dubrovnik/photos/02-onofrio-1.jpg",
+  "cities/dubrovnik/photos/02-onofrio-2.jpg",
+  "cities/dubrovnik/photos/03-mosteiro-franciscano-1.jpg",
+  "cities/dubrovnik/photos/03-mosteiro-franciscano-2.jpg",
+  "cities/dubrovnik/photos/04-stradun-1.jpg",
+  "cities/dubrovnik/photos/04-stradun-2.jpg",
+  "cities/dubrovnik/photos/05-sponza-1.jpg",
+  "cities/dubrovnik/photos/05-sponza-2.jpg",
+  "cities/dubrovnik/photos/06-sao-bras-1.jpg",
+  "cities/dubrovnik/photos/06-sao-bras-2.jpg",
+  "cities/dubrovnik/photos/07-palacio-reitor-1.jpg",
+  "cities/dubrovnik/photos/07-palacio-reitor-2.jpg",
+  "cities/dubrovnik/photos/08-catedral-1.jpg",
+  "cities/dubrovnik/photos/08-catedral-2.jpg",
+  "cities/dubrovnik/photos/09-gundulic-1.jpg",
+  "cities/dubrovnik/photos/09-gundulic-2.jpg",
+  "cities/dubrovnik/photos/10-buza-1.jpg",
+  "cities/dubrovnik/photos/11-lovrijenac-1.jpg",
+  "cities/dubrovnik/photos/11-lovrijenac-2.jpg"
  ],
  "tiles": [
   "https://tile.openstreetmap.org/15/18031/12084.png",
@@ -9,16 +30,28 @@
   "https://tile.openstreetmap.org/15/18032/12085.png",
   "https://tile.openstreetmap.org/16/36063/24169.png",
   "https://tile.openstreetmap.org/16/36063/24170.png",
+  "https://tile.openstreetmap.org/16/36063/24171.png",
   "https://tile.openstreetmap.org/16/36064/24169.png",
   "https://tile.openstreetmap.org/16/36064/24170.png",
+  "https://tile.openstreetmap.org/16/36064/24171.png",
+  "https://tile.openstreetmap.org/16/36065/24169.png",
+  "https://tile.openstreetmap.org/16/36065/24170.png",
+  "https://tile.openstreetmap.org/16/36065/24171.png",
   "https://tile.openstreetmap.org/17/72127/48339.png",
   "https://tile.openstreetmap.org/17/72127/48340.png",
   "https://tile.openstreetmap.org/17/72127/48341.png",
+  "https://tile.openstreetmap.org/17/72127/48342.png",
   "https://tile.openstreetmap.org/17/72128/48339.png",
   "https://tile.openstreetmap.org/17/72128/48340.png",
   "https://tile.openstreetmap.org/17/72128/48341.png",
+  "https://tile.openstreetmap.org/17/72128/48342.png",
   "https://tile.openstreetmap.org/17/72129/48339.png",
   "https://tile.openstreetmap.org/17/72129/48340.png",
-  "https://tile.openstreetmap.org/17/72129/48341.png"
+  "https://tile.openstreetmap.org/17/72129/48341.png",
+  "https://tile.openstreetmap.org/17/72129/48342.png",
+  "https://tile.openstreetmap.org/17/72130/48339.png",
+  "https://tile.openstreetmap.org/17/72130/48340.png",
+  "https://tile.openstreetmap.org/17/72130/48341.png",
+  "https://tile.openstreetmap.org/17/72130/48342.png"
  ]
 }
