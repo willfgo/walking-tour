@@ -1,0 +1,264 @@
+{
+  "city": "King's Landing",
+  "title": "King's Landing — by Tyrion Lannister",
+  "intro": {
+    "text": "Ah, King's Landing.\nOr, as the locals insist on calling it, Dubrovnik.\nI have climbed these walls, bled on these stones, and stood trial for a murder I did not commit some two hundred metres from where you now stand.\nWelcome.\nI shall be your guide — a Lannister always pays his debts, and mine, apparently, is to tourism.\nWe begin at the bay where the mob very nearly ate us alive, and we finish on the staircase where my dear sister took her... memorable stroll.\nThis is a fan-made tour, entirely unofficial — dragons are your own responsibility.\nDo try to keep your head.",
+    "audio": "audio/00-intro.mp3"
+  },
+  "route": [
+    [
+      42.64125,
+      18.1051
+    ],
+    [
+      42.6408,
+      18.10423
+    ],
+    [
+      42.6404,
+      18.105
+    ],
+    [
+      42.6397,
+      18.1057
+    ],
+    [
+      42.6406,
+      18.1062
+    ],
+    [
+      42.64143,
+      18.10652
+    ],
+    [
+      42.64183,
+      18.10755
+    ],
+    [
+      42.64236,
+      18.10814
+    ],
+    [
+      42.6416,
+      18.1085
+    ],
+    [
+      42.64134,
+      18.10885
+    ],
+    [
+      42.64124,
+      18.11056
+    ],
+    [
+      42.6406,
+      18.1119
+    ],
+    [
+      42.6404,
+      18.1128
+    ],
+    [
+      42.64032,
+      18.11073
+    ],
+    [
+      42.63995,
+      18.1101
+    ]
+  ],
+  "pois": [
+    {
+      "id": "baia-pile",
+      "order": 1,
+      "name": "Pile Bay — Blackwater and the riot",
+      "lat": 42.64125,
+      "lng": 18.1051,
+      "duration_s": 81,
+      "script": "Behold Blackwater Bay.\nIn your world it is called Pile Bay — a charming little cove with rowing boats.\nIn mine, it is where Stannis Baratheon's fleet came to die in green fire.\nBut before that, it was on this very ground that the good people of King's Landing reminded us of an inconvenient truth: hungry mobs are not great admirers of kings.\nThe riot.\nJoffrey, my delightful nephew, was greeted with cow dung to the face — the only sincere gesture of public approval he received in his entire reign.\nHe ordered everyone killed, naturally.\nI slapped him.\nIt solved nothing, but I do recommend the experience: slapping Joffrey works wonders for the soul.\nThe scene was filmed precisely here, between the Pile Gate and this water.\nNow look up: on one side, the fortress that played the Red Keep; on the other, the city walls.\nThe producers looked at this cove and saw exactly what I see — a perfect stage for chaos.\nEnjoy the view.\nIt cost a great many fictional people rather dearly.",
+      "audio": "audio/01-baia-pile.mp3",
+      "photos": [
+        {
+          "file": "photos/01-baia-pile-1.jpg",
+          "caption": "",
+          "credit": "Richard Mortel / Wikimedia Commons (CC BY 2.0)"
+        },
+        {
+          "file": "photos/01-baia-pile-2.jpg",
+          "caption": "",
+          "credit": "dronepicr / Wikimedia Commons (CC BY 2.0)"
+        }
+      ],
+      "practical": "Free, always open. Take the stairs left of the Pile Gate entrance. Best light in the morning. From here you see Lovrijenac and Bokar together — the establishing shot of most King's Landing episodes.",
+      "maps_url": "https://maps.apple.com/?daddr=42.64125,18.10510&dirflg=w"
+    },
+    {
+      "id": "lovrijenac",
+      "order": 2,
+      "name": "Fort Lovrijenac — the Red Keep",
+      "lat": 42.6408,
+      "lng": 18.10423,
+      "duration_s": 79,
+      "script": "Behold the Red Keep — or Lovrijenac, for those who pay admission.\nThis is where they filmed Joffrey's name day tournament in season two: the one where a drunken knight was very nearly drowned in wine for royal amusement.\nI arrived just in time to ruin the fun, thank you for asking.\nAnd it was from these battlements that I commanded the defence of the city at the Battle of the Blackwater.\nYes, me.\nThe dwarf.\nWhile my nephew the king fled snivelling to his mother, I led the sortie through the rear gate and earned this scar across my face as a souvenir.\nThere is a great deal of bravery in being a half-man — half the size, twice the work.\nDo note one deliciously ironic detail: above the actual gate it is written that liberty is not to be sold for all the gold in the world.\nA Lannister would beg to differ — we bought nearly everything with gold.\nYet I will grant them this: the city never fell.\nNot to Stannis, not to anyone.\nClimb to the terraces: the upper one offers the finest view of my city there is.",
+      "audio": "audio/02-lovrijenac.mp3",
+      "photos": [
+        {
+          "file": "photos/02-lovrijenac-1.jpg",
+          "caption": "",
+          "credit": "Sumitsurai / Wikimedia Commons (CC BY-SA 4.0)"
+        },
+        {
+          "file": "photos/02-lovrijenac-2.jpg",
+          "caption": "",
+          "credit": "dronepicr / Wikimedia Commons (CC BY 2.0)"
+        }
+      ],
+      "practical": "€15 standalone, or FREE with the city walls ticket / Dubrovnik Pass (valid 72h). July: 8:00–19:30. Steep shadeless climb — go early or after 17:00.",
+      "maps_url": "https://maps.apple.com/?daddr=42.64080,18.10423&dirflg=w"
+    },
+    {
+      "id": "bokar",
+      "order": 3,
+      "name": "Fort Bokar — the city battlements",
+      "lat": 42.6397,
+      "lng": 18.1057,
+      "duration_s": 76,
+      "script": "This stone drum leaning over the sea is Fort Bokar — and, in the show, the walls of King's Landing that I paced more often than I would have liked.\nIt was along these battlements that I walked with Lord Varys, the Spider, trading polite threats and planning how to keep Stannis from turning the city into a bonfire.\nSpoiler: the bonfire turned out to be my idea.\nWildfire.\nThousands of pots of green fire hidden beneath the city — the weapon of the desperate, administered by a dwarf with an excellent memory for insults.\nThe producers adored this angle: the double wall, the sea pounding below, Lovrijenac in the background.\nIf you have bought the walls ticket — and you should, it costs roughly the ransom of a minor knight — you will walk directly over this fort and understand why King's Landing never fell to direct assault.\nFour to six metres of stone on the landward side.\nRather less on the seaward side.\nThe Ragusans, much like the Lannisters, knew precisely whom they feared.\nAnd it was not boats.",
+      "audio": "audio/03-bokar.mp3",
+      "photos": [
+        {
+          "file": "photos/03-bokar-1.jpg",
+          "caption": "",
+          "credit": "Tony Hisgett / Wikimedia Commons (CC BY 2.0)"
+        },
+        {
+          "file": "photos/03-bokar-2.jpg",
+          "caption": "",
+          "credit": "Tony Hisgett / Wikimedia Commons (CC BY 2.0)"
+        }
+      ],
+      "practical": "Exterior view free from the coastal path; walking over it is included in the walls circuit (€40 or Dubrovnik Pass). The show's classic angle is from the seafront between Pile and Bokar.",
+      "maps_url": "https://maps.apple.com/?daddr=42.63970,18.10570&dirflg=w"
+    },
+    {
+      "id": "minceta",
+      "order": 4,
+      "name": "Minčeta Tower — the House of the Undying",
+      "lat": 42.64236,
+      "lng": 18.10814,
+      "duration_s": 87,
+      "script": "Now we climb to the highest point of the walls: the Minčeta Tower.\nIn the show, this stands on the far side of the world — it is the House of the Undying in Qarth, where the mother of dragons lost her hatchlings to blue-lipped warlocks.\nDaenerys circled this very tower searching for the entrance, wearing the expression of someone who has misplaced something precious — in her case, three dragons and her patience.\nQarth, its citizens insisted, was 'the greatest city that ever was or will be'.\nIn my experience, those who speak most of their own greatness tend to possess the least of it — I lived with my sister, I know whereof I speak.\nThe tower itself deserves the hyperbole: it is the symbol of Dubrovnik.\nDesigned by a Florentine and completed in 1464, with walls six metres thick, it crowns the entire circuit.\nThe final steps are a cardiac stress test — and I say that in a tour narrated for a cardiologist; the irony does not escape me.\nFrom the top, the whole city opens up: red roofs, blue sea, and not a warlock in sight.\nOn a good day, it is very nearly magic without any magic at all.",
+      "audio": "audio/04-minceta.mp3",
+      "photos": [
+        {
+          "file": "photos/04-minceta-1.jpg",
+          "caption": "",
+          "credit": "Leszek Drabik / Wikimedia Commons (CC BY 3.0)"
+        },
+        {
+          "file": "photos/04-minceta-2.jpg",
+          "caption": "",
+          "credit": "Andrzej Harassek / Wikimedia Commons (CC BY-SA 3.0)"
+        }
+      ],
+      "practical": "Access via the walls circuit (€40 / Dubrovnik Pass). Highest and busiest point of the walk — go at opening (8:00) or after 17:00. Good exterior view from Peline street.",
+      "maps_url": "https://maps.apple.com/?daddr=42.64236,18.10814&dirflg=w"
+    },
+    {
+      "id": "rua-dominika",
+      "order": 5,
+      "name": "Sv. Dominika Street — the streets of King's Landing",
+      "lat": 42.6406,
+      "lng": 18.1119,
+      "duration_s": 58,
+      "script": "This sloping stone street is quite possibly the most filmed street of the entire show.\nWhenever you see 'the streets of King's Landing' — markets, processions, gold cloak patrols — you are looking at St Dominic Street.\nIt was here that the gold cloaks hunted down King Robert's bastards in the opening of season two, one of those scenes that reminds the audience Westeros is no place for children.\nIt was here that I strolled with Bronn, my pet sellsword, discussing affairs of state — namely where to find soldiers, wine and information, in that order.\nAnd my sister's little pilgrimage passed this way too, but I shall not spoil it: she has a stop all of her own at the end of this tour.\nNotice how the street rises gently between the Dominican monastery and the walls — precisely wide enough for a crowd of extras and a cameraman walking backwards.\nThese days it hosts a small morning market.\nFewer beheadings, more lavender.\nProgress does have its charms.",
+      "audio": "audio/05-rua-dominika.mp3",
+      "photos": [
+        {
+          "file": "photos/05-rua-dominika-1.jpg",
+          "caption": "",
+          "credit": "Hischwab / Wikimedia Commons (CC BY-SA 3.0)"
+        },
+        {
+          "file": "photos/05-rua-dominika-2.jpg",
+          "caption": "",
+          "credit": "Richard Mortel / Wikimedia Commons (CC BY 2.0)"
+        }
+      ],
+      "practical": "Free, always open. Craft stalls in the morning. Connects the east end of Stradun to the Ploče Gate — walk it towards the old port.",
+      "maps_url": "https://maps.apple.com/?daddr=42.64060,18.11190&dirflg=w"
+    },
+    {
+      "id": "porto-velho",
+      "order": 6,
+      "name": "The Old Port — Myrcella's farewell",
+      "lat": 42.6404,
+      "lng": 18.1128,
+      "duration_s": 84,
+      "script": "The old port of Dubrovnik — and the docks of King's Landing where the royal family bade farewell to Princess Myrcella, shipped off to Dorne.\nMy idea, incidentally.\nA strategic betrothal to keep the girl safe from the coming siege — and, I confess, to infuriate her mother.\nCersei swore on that dock that one day she would repay me in kind.\nMy sister has many flaws, but failing to keep promises of vengeance was never among them.\nThe port earned its keep in other scenes too: ships arriving with important characters, ships departing with characters shortly to be dead — standard Westerosi traffic.\nNote the stone breakwater, the Porporela, and the two fortresses guarding the entrance.\nIn the days of the Republic of Ragusa, a chain was stretched between them each night, locking the harbour the way one locks one's front door.\nPrudent people, the Ragusans.\nThey would have done rather well in Westeros.\nSit at one of the quayside cafés, order something cold, and watch the boats to Lokrum — that island out there played Qarth as well, but that is a story for your next outing.",
+      "audio": "audio/06-porto-velho.mp3",
+      "photos": [
+        {
+          "file": "photos/06-porto-velho-1.jpg",
+          "caption": "",
+          "credit": "Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)"
+        },
+        {
+          "file": "photos/06-porto-velho-2.jpg",
+          "caption": "",
+          "credit": "Tiia Monto / Wikimedia Commons (CC BY 4.0)"
+        }
+      ],
+      "practical": "Free. Quayside cafés with a view; boats to Lokrum leave from here (30 min, ~€27 return). Best light on the water in the late afternoon.",
+      "maps_url": "https://maps.apple.com/?daddr=42.64040,18.11280&dirflg=w"
+    },
+    {
+      "id": "palacio-especiarias",
+      "order": 7,
+      "name": "Rector's Palace — the Spice King's manse",
+      "lat": 42.64032,
+      "lng": 18.11073,
+      "duration_s": 76,
+      "script": "This Gothic-Renaissance palace played the manse of the Spice King of Qarth — that unctuous merchant who refused the mother of dragons her ships with the courtesy of a man refusing alms to a beggar.\nThe atrium where Daenerys pleaded her case is this one, columns, staircase and all.\nShe left empty-handed, and returned later to lock the fellow in his own empty vault.\nThere is a lesson in that about refusing women who own dragons.\nI, personally, would have lent her the ships.\nMerchants and Lannisters understand one thing perfectly: debt is opportunity.\nThe real building is rather more interesting than the fictional one: it was the seat of government of the Republic of Ragusa, where the Rector ruled for precisely thirty days, practically a prisoner in his own office.\nA ruler with an expiry date and no chance of tyranny — Westeros might have saved itself eight seasons of war with that idea.\nAbove the council hall door it is written: forget private affairs, attend to public ones.\nIn King's Landing we did precisely the opposite, and with great enthusiasm.\nStep inside: the cool atrium is a mercy in this heat, and the acoustics would lend a lovely echo to any interrogation.",
+      "audio": "audio/07-palacio-especiarias.mp3",
+      "photos": [
+        {
+          "file": "photos/07-palacio-especiarias-1.jpg",
+          "caption": "",
+          "credit": "Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)"
+        },
+        {
+          "file": "photos/07-palacio-especiarias-2.jpg",
+          "caption": "",
+          "credit": "Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)"
+        }
+      ],
+      "practical": "€15 (included in the Dubrovnik Pass). July: 9:00–18:00. The Qarth atrium is right at the entrance. Cool interior — a fine midday refuge.",
+      "maps_url": "https://maps.apple.com/?daddr=42.64032,18.11073&dirflg=w"
+    },
+    {
+      "id": "escadaria-vergonha",
+      "order": 8,
+      "name": "The Jesuit Staircase — the Walk of Shame",
+      "lat": 42.63995,
+      "lng": 18.1101,
+      "duration_s": 76,
+      "script": "And so we reach the grand finale.\nThis Baroque staircase, modelled on Rome's Spanish Steps, is where my dear sister Cersei began her most... breezy of walks.\nShame.\nShame.\nShame.\nThe bell, the scowling septa, the entire population of King's Landing summoned to watch the lioness shorn.\nThey filmed it over several days, with five hundred extras and the street sealed off — the residents of Dubrovnik watched from their windows, which strikes me as deeply appropriate.\nI shall not pretend I felt no petty pleasure.\nCersei spent a lifetime heaping cruelties upon us all — upon me with particular dedication, from the very day I was born.\nBut even I must admit: she descended these steps with her head held high, and clawed her way back to power before the season was out.\nLannisters are difficult to kill.\nI am living proof.\nNow climb the staircase — clothed, preferably — up to the church of Saint Ignatius, and look back: Gundulić Square below, the market, the rooftops.\nIt was a good tour, admit it.\nA Lannister always pays his debts — and mine to you is now paid in full.\nUntil the next city.",
+      "audio": "audio/08-escadaria-vergonha.mp3",
+      "photos": [
+        {
+          "file": "photos/08-escadaria-vergonha-1.jpg",
+          "caption": "",
+          "credit": "Sailko / Wikimedia Commons (CC BY 3.0)"
+        },
+        {
+          "file": "photos/08-escadaria-vergonha-2.jpg",
+          "caption": "",
+          "credit": "Sailko / Wikimedia Commons (CC BY 3.0)"
+        }
+      ],
+      "practical": "Free, always open. Starts at Gundulić Square (morning market). Climb to St Ignatius for the view — and the classic photo descending the steps.",
+      "maps_url": "https://maps.apple.com/?daddr=42.63995,18.11010&dirflg=w"
+    }
+  ]
+}

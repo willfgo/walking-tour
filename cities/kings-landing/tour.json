@@ -1,0 +1,264 @@
+{
+  "city": "King's Landing",
+  "title": "Porto Real — por Tyrion Lannister",
+  "intro": {
+    "text": "Ah, Porto Real.\nOu, como os nativos insistem em chamar, Dubrovnik.\nEu escalei estas muralhas, sangrei nestas pedras e fui julgado por um assassinato que não cometi a uns duzentos metros de onde você está.\nSeja bem-vindo.\nSerei seu guia nesta caminhada — um Lannister sempre paga suas dívidas, e aparentemente a minha é com o turismo.\nComeçamos na baía onde a plebe quase nos devorou vivos e terminamos na escadaria onde minha querida irmã fez sua... caminhada memorável.\nEste é um passeio de fã, não oficial — os dragões são por sua conta.\nTente não perder a cabeça.",
+    "audio": "audio/00-intro.mp3"
+  },
+  "route": [
+    [
+      42.64125,
+      18.1051
+    ],
+    [
+      42.6408,
+      18.10423
+    ],
+    [
+      42.6404,
+      18.105
+    ],
+    [
+      42.6397,
+      18.1057
+    ],
+    [
+      42.6406,
+      18.1062
+    ],
+    [
+      42.64143,
+      18.10652
+    ],
+    [
+      42.64183,
+      18.10755
+    ],
+    [
+      42.64236,
+      18.10814
+    ],
+    [
+      42.6416,
+      18.1085
+    ],
+    [
+      42.64134,
+      18.10885
+    ],
+    [
+      42.64124,
+      18.11056
+    ],
+    [
+      42.6406,
+      18.1119
+    ],
+    [
+      42.6404,
+      18.1128
+    ],
+    [
+      42.64032,
+      18.11073
+    ],
+    [
+      42.63995,
+      18.1101
+    ]
+  ],
+  "pois": [
+    {
+      "id": "baia-pile",
+      "order": 1,
+      "name": "Baía de Pile — Água Negra e o motim",
+      "lat": 42.64125,
+      "lng": 18.1051,
+      "duration_s": 56,
+      "script": "Contemple a Baía da Água Negra.\nNo seu mundo, chamam isto de baía de Pile — uma enseada charmosa com barquinhos.\nNo meu, foi aqui que a frota de Stannis Baratheon veio morrer em fogo verde.\nMas antes disso, foi neste pedaço de chão que a plebe de Porto Real nos lembrou de uma verdade incômoda: multidões famintas não são grandes fãs de reis.\nO motim.\nJoffrey, meu adorável sobrinho, foi saudado com estrume na cara — o único gesto sincero de aprovação popular que ele recebeu no reinado inteiro.\nEle ordenou matar todo mundo, é claro.\nEu dei-lhe um tabefe.\nNão resolveu nada, mas recomendo a experiência: bater em Joffrey faz maravilhas pela alma.\nA cena foi filmada exatamente aqui, entre o portão de Pile e esta água.\nOlhe para cima: de um lado, a fortaleza que fez o papel da Fortaleza Vermelha; do outro, as muralhas da cidade.\nOs produtores olharam para esta enseada e viram o que eu vejo: um palco perfeito para o caos.\nAproveite a vista.\nEla custou caro a muita gente fictícia.",
+      "audio": "audio/01-baia-pile.mp3",
+      "photos": [
+        {
+          "file": "photos/01-baia-pile-1.jpg",
+          "caption": "Forte Lovrijenac no alto do penhasco sobre a enseada de Pile, visto das muralhas da cidade, com o casario e o mar Adriático",
+          "credit": "Richard Mortel / Wikimedia Commons (CC BY 2.0)"
+        },
+        {
+          "file": "photos/01-baia-pile-2.jpg",
+          "caption": "Vista aérea da enseada de Pile (Kolorina) entre o forte Bokar e as muralhas, com águas turquesa e caiaques na pequena praia",
+          "credit": "dronepicr / Wikimedia Commons (CC BY 2.0)"
+        }
+      ],
+      "practical": "Grátis, sempre aberto. Desça pela escada à esquerda da entrada do Pile Gate. Melhor luz de manhã. Daqui se vê Lovrijenac e Bokar juntos — a foto que abre a maioria dos episódios em Porto Real.",
+      "maps_url": "https://maps.apple.com/?daddr=42.64125,18.10510&dirflg=w"
+    },
+    {
+      "id": "lovrijenac",
+      "order": 2,
+      "name": "Forte Lovrijenac — a Fortaleza Vermelha",
+      "lat": 42.6408,
+      "lng": 18.10423,
+      "duration_s": 65,
+      "script": "Eis a Fortaleza Vermelha — ou Lovrijenac, para os que pagam ingresso.\nAqui se filmou o torneio do dia do nome de Joffrey, na segunda temporada: aquele em que um cavaleiro bêbado quase foi afogado em vinho por diversão real.\nEu cheguei bem a tempo de estragar a festa, obrigado por perguntar.\nE foi destas ameias que eu comandei a defesa da cidade na Batalha da Água Negra.\nSim, eu.\nO anão.\nEnquanto meu sobrinho-rei fugia choramingando para junto da mamãe, eu liderei o ataque pelo portão dos fundos e ganhei esta cicatriz no rosto de lembrança.\n'Há bravura em ser meio-homem', como eu disse na ocasião — metade do tamanho, o dobro do trabalho.\nRepare num detalhe deliciosamente irônico: sobre o portão real está escrito que a liberdade não se vende por todo o ouro do mundo.\nUm Lannister discordaria — nós compramos praticamente tudo com ouro.\nMas admito que esta cidade nunca caiu.\nNem para Stannis, nem para ninguém.\nSuba aos terraços: é da terraça superior que se tem a melhor vista da minha cidade.",
+      "audio": "audio/02-lovrijenac.mp3",
+      "photos": [
+        {
+          "file": "photos/02-lovrijenac-1.jpg",
+          "caption": "Forte Lovrijenac no alto do penhasco sobre a baía, visto da muralha da cidade, com casario de telhados vermelhos ao redor",
+          "credit": "Sumitsurai / Wikimedia Commons (CC BY-SA 4.0)"
+        },
+        {
+          "file": "photos/02-lovrijenac-2.jpg",
+          "caption": "Forte Lovrijenac visto de drone, mostrando o formato triangular, os terraços internos e a enseada com caiaques",
+          "credit": "dronepicr / Wikimedia Commons (CC BY 2.0)"
+        }
+      ],
+      "practical": "€15 avulso ou GRÁTIS com o ticket das muralhas/Dubrovnik Pass (72h de validade). Julho: 8h–19h30. Subida íngreme sem sombra — manhã cedo ou fim de tarde.",
+      "maps_url": "https://maps.apple.com/?daddr=42.64080,18.10423&dirflg=w"
+    },
+    {
+      "id": "bokar",
+      "order": 3,
+      "name": "Forte Bokar — as ameias da cidade",
+      "lat": 42.6397,
+      "lng": 18.1057,
+      "duration_s": 60,
+      "script": "Este tambor de pedra debruçado sobre o mar é o forte Bokar — e, na série, as muralhas de Porto Real que eu percorri mais vezes do que gostaria.\nFoi por estas ameias que caminhei com Lorde Varys, o Aranha, trocando ameaças educadas e planejando como impedir Stannis de transformar a cidade numa fogueira.\nSpoiler: a fogueira acabou sendo ideia minha.\nFogovivo.\nMilhares de potes de fogo verde escondidos sob a cidade — a arma dos desesperados, administrada por um anão com boa memória para insultos.\nOs produtores adoravam este ângulo: a muralha dupla, o mar batendo embaixo, Lovrijenac ao fundo.\nSe você pagou o ingresso das muralhas — e deveria, custa o resgate de um cavaleiro menor —, vai passar por cima deste forte e entender por que Porto Real nunca caiu por assalto direto.\nQuatro a seis metros de pedra do lado da terra.\nDo lado do mar, bem menos.\nOs ragusanos, como os Lannister, sabiam exatamente de quem tinham medo.\nE não era de barcos.",
+      "audio": "audio/03-bokar.mp3",
+      "photos": [
+        {
+          "file": "photos/03-bokar-1.jpg",
+          "caption": "Forte Bokar em close: a torre redonda de pedra avançando sobre as rochas, com o mar agitado sob céu nublado",
+          "credit": "Tony Hisgett / Wikimedia Commons (CC BY 2.0)"
+        },
+        {
+          "file": "photos/03-bokar-2.jpg",
+          "caption": "Forte Bokar visto da vegetação junto às muralhas, com onda quebrando nas rochas ao lado",
+          "credit": "Tony Hisgett / Wikimedia Commons (CC BY 2.0)"
+        }
+      ],
+      "practical": "Vista externa grátis do caminho costeiro; por cima, incluso no circuito das muralhas (€40 ou Dubrovnik Pass). O ângulo clássico da série é da beira-mar entre Pile e Bokar.",
+      "maps_url": "https://maps.apple.com/?daddr=42.63970,18.10570&dirflg=w"
+    },
+    {
+      "id": "minceta",
+      "order": 4,
+      "name": "Torre Minčeta — a Casa dos Imortais",
+      "lat": 42.64236,
+      "lng": 18.10814,
+      "duration_s": 86,
+      "script": "Agora subimos ao ponto mais alto das muralhas: a torre Minčeta.\nNa série, isto fica do outro lado do mundo — é a Casa dos Imortais de Qarth, onde a mãe de dragões perdeu seus filhotes para feiticeiros de lábios azuis.\nDaenerys circulou esta torre procurando a entrada, com aquela expressão de quem perdeu algo precioso — no caso, três dragões e a paciência.\nQarth, diziam seus habitantes, era 'a maior cidade que já existiu ou existirá'.\nAs pessoas que mais falam de sua própria grandeza costumam ser as que menos a possuem — eu convivi com minha irmã, sei do que falo.\nA torre em si merece o exagero: é o símbolo de Dubrovnik.\nProjetada por um florentino e terminada em 1464, com paredes de seis metros, ela coroa o circuito das muralhas.\nSubir os degraus finais é um teste cardíaco — e eu digo isso num tour narrado para um cardiologista, a ironia não me escapa.\nLá de cima, a cidade inteira se abre: telhados vermelhos, mar azul, e nenhum feiticeiro à vista.\nEm dias bons, é quase mágico sem magia alguma.",
+      "audio": "audio/04-minceta.mp3",
+      "photos": [
+        {
+          "file": "photos/04-minceta-1.jpg",
+          "caption": "Panorâmica da torre Minčeta com sua coroa de ameias dominando o trecho norte das muralhas, com a cidade velha e o Adriático ao fundo",
+          "credit": "Leszek Drabik / Wikimedia Commons (CC BY 3.0)"
+        },
+        {
+          "file": "photos/04-minceta-2.jpg",
+          "caption": "Torre Minčeta vista de baixo, com a muralha e o bastião em primeiro plano e a encosta do monte Srđ atrás",
+          "credit": "Andrzej Harassek / Wikimedia Commons (CC BY-SA 3.0)"
+        }
+      ],
+      "practical": "Acesso pelo circuito das muralhas (€40/Dubrovnik Pass). É o ponto mais alto e mais lotado do circuito — vá na primeira hora (8h) ou após 17h. Vista externa boa da rua Peline.",
+      "maps_url": "https://maps.apple.com/?daddr=42.64236,18.10814&dirflg=w"
+    },
+    {
+      "id": "rua-dominika",
+      "order": 5,
+      "name": "Rua Sv. Dominika — as ruas de Porto Real",
+      "lat": 42.6406,
+      "lng": 18.1119,
+      "duration_s": 56,
+      "script": "Esta ladeira de pedra é provavelmente a rua mais filmada da série inteira.\nQuando você vê 'as ruas de Porto Real' — mercados, procissões, patrulhas dos mantos dourados —, está vendo a rua de São Domingos.\nFoi aqui que os mantos dourados caçaram os bastardos do rei Robert na abertura da segunda temporada, uma daquelas cenas que lembram ao espectador que Westeros não é um lugar para crianças.\nFoi aqui que eu caminhei com Bronn, meu mercenário de estimação, discutindo assuntos de estado — isto é, onde conseguir soldados, vinho e informação, nesta ordem.\nE por aqui passou também a peregrinação da minha irmã, mas não vou estragar a surpresa: ela tem uma parada só dela no fim do tour.\nRepare como a rua sobe suave entre o mosteiro dominicano e as muralhas — largura perfeita para uma multidão de figurantes e um cameraman andando de costas.\nHoje ela abriga um mercadinho de manhã.\nMenos degolas, mais lavanda.\nO progresso tem dessas coisas.",
+      "audio": "audio/05-rua-dominika.mp3",
+      "photos": [
+        {
+          "file": "photos/05-rua-dominika-1.jpg",
+          "caption": "Rua de pedra Sv. Dominika vista do alto das muralhas, com pedestres entre o casario, a muralha curva e a cúpula da catedral ao fundo",
+          "credit": "Hischwab / Wikimedia Commons (CC BY-SA 3.0)"
+        },
+        {
+          "file": "photos/05-rua-dominika-2.jpg",
+          "caption": "Trecho da rua Sv. Dominika junto ao portão de Ploče, visto da muralha, com pedestres na rua de pedra entre igrejinhas e bastiões",
+          "credit": "Richard Mortel / Wikimedia Commons (CC BY 2.0)"
+        }
+      ],
+      "practical": "Grátis, sempre aberta. De manhã há bancas de artesanato. Liga o fim do Stradun ao portão de Ploče — faça-a em direção ao porto velho.",
+      "maps_url": "https://maps.apple.com/?daddr=42.64060,18.11190&dirflg=w"
+    },
+    {
+      "id": "porto-velho",
+      "order": 6,
+      "name": "Porto Velho — o adeus de Myrcella",
+      "lat": 42.6404,
+      "lng": 18.1128,
+      "duration_s": 60,
+      "script": "O porto velho de Dubrovnik — e o cais de Porto Real onde a família real se despediu da princesa Myrcella, despachada para Dorne.\nIdeia minha, aliás.\nUm noivado estratégico para proteger a menina do cerco que se aproximava — e, admito, para irritar a mãe dela.\nCersei jurou naquele cais que um dia me pagaria na mesma moeda.\nMinha irmã tem muitos defeitos, mas cumprir promessas de vingança nunca foi um deles.\nO porto rendeu outras cenas: barcos chegando com personagens importantes, barcos partindo com personagens mortos em breve — o tráfego padrão de Westeros.\nRepare no quebra-mar de pedra, a Porporela, e nas duas fortalezas que guardam a entrada.\nNo tempo da República de Ragusa, uma corrente era estendida entre elas à noite, fechando o porto como quem fecha a porta de casa.\nGente prudente, esses ragusanos.\nTeriam sobrevivido bem em Westeros.\nSente-se num dos cafés do cais, peça algo gelado e observe os barcos para Lokrum — a ilha ali na frente também virou Qarth, mas essa fica para o seu próximo passeio.",
+      "audio": "audio/06-porto-velho.mp3",
+      "photos": [
+        {
+          "file": "photos/06-porto-velho-1.jpg",
+          "caption": "Porto velho de Dubrovnik com barcos atracados, o forte de São João à esquerda e a ilha de Lokrum ao fundo",
+          "credit": "Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)"
+        },
+        {
+          "file": "photos/06-porto-velho-2.jpg",
+          "caption": "Barcos de pesca e de passeio no porto velho, com os arcos do antigo arsenal, a cúpula da catedral e a torre do relógio ao fundo",
+          "credit": "Tiia Monto / Wikimedia Commons (CC BY 4.0)"
+        }
+      ],
+      "practical": "Grátis. Cafés com vista no cais; barcos para Lokrum saem daqui (30 min, ~€27 ida e volta). Fim de tarde tem a melhor luz sobre a água.",
+      "maps_url": "https://maps.apple.com/?daddr=42.64040,18.11280&dirflg=w"
+    },
+    {
+      "id": "palacio-especiarias",
+      "order": 7,
+      "name": "Palácio do Reitor — a casa do Rei das Especiarias",
+      "lat": 42.64032,
+      "lng": 18.11073,
+      "duration_s": 116,
+      "script": "Este palácio gótico-renascentista fez o papel da mansão do Rei das Especiarias de Qarth — aquele mercador untuoso que recusou navios à mãe de dragões com a educação de quem recusa esmola a um mendigo.\nO átrio onde Daenerys implorou por ajuda é este, com suas colunas e escadaria.\nEla saiu de mãos vazias e voltou depois para trancar o sujeito num cofre vazio.\nHá uma lição aí sobre recusar mulheres com dragões.\nEu, pessoalmente, teria emprestado os navios.\nMercadores e Lannisters entendem uma coisa: dívida é oportunidade.\nO edifício real é mais interessante que o fictício: era a sede do governo da República de Ragusa, onde o Reitor governava por exatos trinta dias, praticamente prisioneiro no cargo.\nUm governante com prazo de validade e sem chance de tirania — Westeros teria economizado oito temporadas de guerra com essa ideia.\nSobre a porta do salão do conselho está escrito: esqueçam os assuntos privados, cuidem dos públicos.\nEm Porto Real fazíamos o contrário, com entusiasmo.\nEntre: o átrio fresco é um alívio no calor, e a acústica renderia belos ecos a qualquer interrogatório.",
+      "audio": "audio/07-palacio-especiarias.mp3",
+      "photos": [
+        {
+          "file": "photos/07-palacio-especiarias-1.jpg",
+          "caption": "Portal gótico do Palácio do Reitor sob o pórtico, com porta de madeira entalhada e capitéis esculpidos",
+          "credit": "Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)"
+        },
+        {
+          "file": "photos/07-palacio-especiarias-2.jpg",
+          "caption": "Aldrava de bronze com cabeça de leão e folhagem, na porta do Palácio do Reitor",
+          "credit": "Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)"
+        }
+      ],
+      "practical": "€15 (incluso no Dubrovnik Pass). Julho: 9h–18h. O átrio de Qarth fica logo na entrada. Interior fresco — bom refúgio ao meio-dia.",
+      "maps_url": "https://maps.apple.com/?daddr=42.64032,18.11073&dirflg=w"
+    },
+    {
+      "id": "escadaria-vergonha",
+      "order": 8,
+      "name": "Escadaria dos Jesuítas — a Caminhada da Vergonha",
+      "lat": 42.63995,
+      "lng": 18.1101,
+      "duration_s": 67,
+      "script": "E chegamos ao gran finale.\nEsta escadaria barroca, inspirada na Praça de Espanha de Roma, é onde minha querida irmã Cersei começou sua caminhada mais... arejada.\nVergonha.\nVergonha.\nVergonha.\nO sino, a septã carrancuda, a plebe inteira de Porto Real convocada para ver a leoa tosquiada.\nFilmaram durante dias, com quinhentos figurantes e a rua fechada — os moradores de Dubrovnik assistiram das janelas, o que me parece profundamente apropriado.\nNão vou fingir que não senti um prazer mesquinho.\nCersei passou a vida inteira empilhando crueldades sobre todos nós — e sobre mim com dedicação especial, desde o dia em que nasci.\nMas até eu admito: ela desceu estes degraus de cabeça erguida, e subiu de volta ao poder antes do fim da temporada.\nOs Lannister são difíceis de matar.\nEu sou a prova.\nSuba agora a escadaria — vestido, de preferência — até a igreja de Santo Inácio, e olhe para trás: a praça Gundulić lá embaixo, o mercado, os telhados.\nFoi um bom tour, admita.\nUm Lannister sempre paga suas dívidas — e a minha com você está paga.\nAté a próxima cidade.",
+      "audio": "audio/08-escadaria-vergonha.mp3",
+      "photos": [
+        {
+          "file": "photos/08-escadaria-vergonha-1.jpg",
+          "caption": "Escadaria barroca dos Jesuítas vista de frente, subindo entre o casario até o relógio do Collegium Ragusinum, ao lado da igreja de Santo Inácio",
+          "credit": "Sailko / Wikimedia Commons (CC BY 3.0)"
+        },
+        {
+          "file": "photos/08-escadaria-vergonha-2.jpg",
+          "caption": "Escadaria dos Jesuítas vista da praça Gundulić, com turistas subindo os degraus entre os terraços de restaurantes",
+          "credit": "Sailko / Wikimedia Commons (CC BY 3.0)"
+        }
+      ],
+      "practical": "Grátis, sempre aberta. Começa na praça Gundulić (mercado de manhã). Suba até Santo Inácio para a vista — e para a foto clássica descendo os degraus.",
+      "maps_url": "https://maps.apple.com/?daddr=42.63995,18.11010&dirflg=w"
+    }
+  ]
+}

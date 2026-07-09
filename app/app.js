@@ -319,7 +319,10 @@
         for (const c of cities) {
           const o = document.createElement("option");
           o.value = c;
-          o.textContent = c.charAt(0).toUpperCase() + c.slice(1);
+          let words = c.split("-");
+          let sufixo = "";
+          if (words[words.length - 1] === "en") { words = words.slice(0, -1); sufixo = " (EN)"; }
+          o.textContent = words.map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" ") + sufixo;
           if (c === CITY) o.selected = true;
           sel.appendChild(o);
         }

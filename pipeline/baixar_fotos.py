@@ -28,6 +28,14 @@ BUSCAS = {
         "buza": ["Buža bar Dubrovnik", "Dubrovnik walls sea side cliff"],
         "lovrijenac": ["Fort Lovrijenac", "Lovrijenac Dubrovnik view"],
     },
+    "kings-landing": {
+        "baia-pile": ["Pile bay Dubrovnik", "Dubrovnik Lovrijenac from sea kayak"],
+        "bokar": ["Fort Bokar Dubrovnik", "Bokar fortress walls Dubrovnik"],
+        "minceta": ["Minčeta Tower Dubrovnik", "Minceta tower Dubrovnik walls"],
+        "rua-dominika": ["Sveti Dominika Dubrovnik street", "Dominican monastery Dubrovnik street"],
+        "porto-velho": ["Old port Dubrovnik", "Dubrovnik old harbour"],
+        "escadaria-vergonha": ["Jesuit stairs Dubrovnik", "St Ignatius church Dubrovnik staircase"],
+    },
     "zagreb": {
         "jelacic": ["Ban Jelačić Square Zagreb", "Trg bana Jelačića"],
         "catedral-zagreb": ["Zagreb Cathedral", "Zagrebačka katedrala"],
