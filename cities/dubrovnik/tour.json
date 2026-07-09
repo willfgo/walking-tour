@@ -218,9 +218,9 @@
       "name": "Stradun (Placa)",
       "lat": 42.64134,
       "lng": 18.10885,
-      "duration_s": null,
+      "duration_s": 78,
       "script": "Esta rua de trezentos metros brilhando sob seus pés já foi um canal de água salgada.\nDe um lado, a ilhota rochosa de Ragusa, povoada por latinos fugidos de invasões; do outro, o assentamento eslavo de Dubrava, no sopé do monte.\nNo século treze o canal foi aterrado, as duas cidades viraram uma — e a fronteira virou a rua principal.\nO calcário foi assentado em 1468, e o brilho de mármore é só o polimento de cinco séculos e meio de passos.\nCuidado quando chove: escorrega mesmo.\nRepare como todas as casas são iguais: mesma altura, mesma fachada, loja embaixo, moradia em cima.\nIsso é urbanismo planejado do século dezessete.\nDepois do terremoto de 1667, a República impôs regras rígidas de reconstrução — inclusive cozinha no sótão, para conter incêndios.\nOlhe as portas das lojas: porta e janela dentro de um mesmo arco, as chamadas portas na koljeno, 'no joelho'.\nVendia-se pelo balcão da janela; a porta só abria para mercadoria.\nE olhe para o piso: algumas pedras mais claras são cicatrizes reparadas dos morteiros de 1991, quando a cidade foi bombardeada no cerco iugoslavo.\nEm 2010, esta rua virou quadra de tênis: Ivanišević contra McEnroe, para seiscentas pessoas.",
-      "audio": null,
+      "audio": "audio/04-stradun.mp3",
       "photos": [
         {
           "file": "photos/04-stradun-1.jpg",
