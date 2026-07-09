@@ -173,20 +173,20 @@
 
 ### Task B3: Fila noturna + publicação progressiva
 
-- [ ] **Step 1:** Rodar `gerar_audio.py dubrovnik` em background (`run_in_background`), acompanhar via task-notification.
-- [ ] **Step 2:** Ao terminar: `validar_tour.py dubrovnik` (durações reais 30–180 s), Playwright no Pages (player funciona), avisar usuário (PushNotification: "áudios no ar — recarregue no wifi").
+- [x] **Step 1:** Rodar `gerar_audio.py dubrovnik` em background (`run_in_background`), acompanhar via task-notification.
+- [x] **Step 2:** Ao terminar: `validar_tour.py dubrovnik` (durações reais 30–180 s), Playwright no Pages (player funciona), avisar usuário (PushNotification: "áudios no ar — recarregue no wifi").
 
 ## FASE C — Zagreb (após B, antes de 12/07)
 
 ### Task C1: Conteúdo + fotos + áudio de Zagreb
 
-- [ ] **Step 1:** Repetir A5–A7 para `cities/zagreb/` (~6–8 POIs do centro: Trg bana Jelačića, Catedral, Dolac, Tkalčićeva, Porta de Pedra, São Marcos, Lotrščak/funicular, Teatro Nacional). Ajustar `app/cities.json`.
-- [ ] **Step 2:** `gerar_audio.py zagreb` + publicar. Avisar usuário.
-- [ ] **Step 3:** Seletor de cidade no app (visível quando `cities.json` tem >1 cidade).
+- [x] **Step 1:** Repetir A5–A7 para `cities/zagreb/` (~6–8 POIs do centro: Trg bana Jelačića, Catedral, Dolac, Tkalčićeva, Porta de Pedra, São Marcos, Lotrščak/funicular, Teatro Nacional). Ajustar `app/cities.json`.
+- [x] **Step 2:** `gerar_audio.py zagreb` + publicar. Avisar usuário.
+- [x] **Step 3:** Seletor de cidade no app (visível quando `cities.json` tem >1 cidade).
 
 ## Verificação final (Definition of Done)
 
-- [ ] `pytest pipeline/ -q` verde.
-- [ ] `validar_tour.py` verde para dubrovnik (e zagreb na Fase C).
-- [ ] Pages no ar; smoke Playwright na URL pública (mapa, POI, foto, player ou badge, lista, offline).
-- [ ] Usuário avisado com URL + instruções de instalação e recarga de áudios.
+- [x] `pytest pipeline/ -q` verde.
+- [x] `validar_tour.py` verde para dubrovnik (e zagreb na Fase C).
+- [x] Pages no ar; smoke Playwright na URL pública (mapa, POI, foto, player ou badge, lista, offline).
+- [x] Usuário avisado com URL + instruções de instalação e recarga de áudios.
