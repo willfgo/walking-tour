@@ -292,6 +292,23 @@
     }
     document.title = tour.title || "Walking Tour";
     $("#city-title").textContent = (tour.city ? tour.city + " — " : "") + (tour.title || "");
+    try {
+      const cities = await (await fetch("cities.json")).json();
+      if (cities.length > 1) {
+        const sel = document.createElement("select");
+        sel.id = "city-select";
+        sel.setAttribute("aria-label", "Trocar cidade");
+        for (const c of cities) {
+          const o = document.createElement("option");
+          o.value = c;
+          o.textContent = c.charAt(0).toUpperCase() + c.slice(1);
+          if (c === CITY) o.selected = true;
+          sel.appendChild(o);
+        }
+        sel.addEventListener("change", () => { location.search = "?city=" + sel.value; });
+        $("#topbar-actions").prepend(sel);
+      }
+    } catch (e) { /* sem cities.json: segue com uma cidade */ }
     initMap();
     $("#btn-view").addEventListener("click", () =>
       setView($("#list").hidden ? "list" : "map"));
